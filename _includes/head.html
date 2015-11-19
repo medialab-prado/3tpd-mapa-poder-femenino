@@ -6,11 +6,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} .::. {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="keywords" content="" />
   <!--[if lte IE 8]><script src="{{ site.baseurl }}/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/vis.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie8.css" /><![endif]-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>

@@ -9,7 +9,7 @@ function truncate(str, maxLength, suffix) {
 
 var margin = {top: 20, right: 100, bottom: 0, left: 20},
 	width = 1020,
-	height = 650;
+	height = 350;
 
 var start_year = 1977,
 	end_year = 2015;
@@ -35,7 +35,7 @@ var svg = d3.select("#gobierno").append("svg")
 	.append("g")
 	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv('../data/gobierno.csv', function(gobierno){
+d3.csv('../../datasets/gobierno.csv', function(gobierno){
 
   gobierno.forEach(function(d){
     switch(d.legislatura){
@@ -133,7 +133,7 @@ x.domain([start_year, end_year]);
 			.attr("x",width+20)
 			.attr("class","label")
 			.text(truncate(data[j]['name'],30,"..."))
-			.style("fill", function(d) { return c(j); })
+			.style("fill", function(d) { return c(1); })
 			.on("mouseover", mouseover)
 			.on("mouseout", mouseout);
 	};

@@ -1,0 +1,46 @@
+.vis{
+  font-family: Arial, sans-serif;font-size:10px;
+}
+.vis h2{
+  text-transform: none;
+}
+.axis path,.axis line {
+  fill: none;
+  stroke:#b6b6b6;
+  shape-rendering: crispEdges;
+}
+.tick text{
+  fill:#999;
+}
+g.journal.active{
+  cursor:pointer;
+}
+text.label{
+  font-size:12px;
+  font-weight:bold;
+  cursor:pointer;
+}
+text.value{
+  font-size:12px;
+  font-weight:bold;
+}
+div.tooltip {
+  top: -1000px;
+  position: absolute;
+  padding: 10px;
+  background: rgba(255, 255, 255, .90);
+  border: 1px solid lightgray;
+  pointer-events: none;
+  font-family: Arial, sans-serif;font-size:10px;
+  line-height: 1.8;
+}
+.tooltip p{
+  margin-bottom: 0;
+}
+
+.tooltip-hidden{
+  opacity: 0;
+}
+.right{
+  float:right;
+}
