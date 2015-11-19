@@ -6,11 +6,9 @@
   <body class="no-sidebar">
 
     {% include header.html %}
-    <div class="page-content">
+    <div class="page-wrapper">
         {{ content }}
+        {% include footer.html %}
     </div>
-    {% include footer.html %}
-
   </body>
-
 </html>
