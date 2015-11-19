@@ -1626,24 +1626,24 @@
 
 /* Header */
 
-	#header {
+	#header, #header-banner{
 		position: relative;
 		border-bottom: solid 2px #e5e5e5;
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 	}
 
-		#header h1 {
+		#header h1,#header-banner h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
 			color: #ed786a;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 		}
 
-			#header h1 a {
+			#header h1 a,#header-banner h1 a {
 				border: 0;
 			}
 
-		#header p {
+		#header p, #header-banner p{
 			text-transform: uppercase;
 			font-weight: 400;
 			color: #888;
@@ -1844,17 +1844,20 @@
 			}
 
 		/* Header */
-
-			#header {
+			#header-banner {
 				padding: 14em 0 7em 0;
 			}
 
-				#header h1 {
+			#header {
+				padding: 1em 0 7em 0;
+			}
+
+				#header h1,#header-banner h1 {
 					font-size: 3em;
 					letter-spacing: 13px;
 				}
 
-				#header p {
+				#header p,#header-banner p {
 					margin: 2.5em 0 0 0;
 					font-size: 0.85em;
 					letter-spacing: 3px;
@@ -2081,15 +2084,19 @@
 
 		/* Header */
 
+		#header-banner {
+			padding: 9em 0 4em 0;
+		}
+
 			#header {
-				padding: 9em 0 4em 0;
+				padding: 1em 0 4em 0;
 			}
 
-				#header h1 {
+				#header h1, #header-banner h1{
 					font-size: 2em;
 				}
 
-				#header p {
+				#header p,#header-banner p {
 					margin: 1.5em 0 0 0;
 				}
 
@@ -2399,18 +2406,21 @@
 			}
 
 		/* Header */
+		#header-banner {
+			padding: 6em 0 4em 0;
+		}
 
 			#header {
-				padding: 6em 0 4em 0;
+				padding: 1em 0 4em 0;
 			}
 
-				#header h1 {
+				#header h1,#header-banner h1 {
 					font-size: 2em;
 					letter-spacing: 8px;
 					line-height: 1.25em;
 				}
 
-				#header p {
+				#header p,#header-banner p {
 					margin: 1.25em 0 0 0;
 					letter-spacing: 2px;
 				}

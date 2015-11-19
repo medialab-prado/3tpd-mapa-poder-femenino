@@ -5,13 +5,13 @@
 
   <body class="homepage">
 
-    {% include header.html %}
+    {% include header-banner.html %}
 
-    <div class="page-content">
+    <div class="page-wrapper">
         {{ content }}
+        {% include footer.html %}
     </div>
 
-    {% include footer.html %}
     {% include scripts.html %}
 
   </body>
