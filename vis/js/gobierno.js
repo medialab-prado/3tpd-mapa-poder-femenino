@@ -7,18 +7,19 @@ function truncate(str, maxLength, suffix) {
 	return str;
 }
 
-var margin = {top: 20, right: 200, bottom: 0, left: 20},
-	width = 800,
+var margin = {top: 20, right: 100, bottom: 0, left: 20},
+	width = 1020,
 	height = 650;
 
 var start_year = 1977,
 	end_year = 2015;
 
 var c = d3.scale.category20c();
+var c2 = function(x){
+	var range = colorbrewer.RdYlGn[4];
+	return range[Math.round(x/(100/range.length))]};
 
-var x = d3.scale.linear()
-	.range([0, width]);
-x.ticks(20)
+var x = d3.scale.linear().range([0, width]);
 
 var xAxis = d3.svg.axis()
 	.scale(x)
@@ -65,22 +66,23 @@ d3.csv('../data/gobierno.csv', function(gobierno){
     periods = {}
     d.values.forEach(function (a) {
       if(!periods.hasOwnProperty(a.year)){
-        periods[a.year]=0;
+        periods[a.year]=[0,0];
       }
       if(a.mujer){
         total++;
-        periods[a.year]++;
+        periods[a.year][0]++;
       }
+			periods[a.year][1]++;
     })
     periods_ = [];
     for (p in periods){
-      periods_.push([+p,periods[p]])
+			p_ = +parseFloat((periods[p][0]/periods[p][1])*100).toFixed(0)
+      periods_.push([+p,p_,periods[p][0],periods[p][1]-periods[p][0],d.name])
     }
 
     d.total = total;
     d.periods = periods_;
   });
-
 data = byLegislatura;
 x.domain([start_year, end_year]);
 	var xScale = d3.scale.linear()
@@ -95,7 +97,7 @@ x.domain([start_year, end_year]);
 	for (var j = 0; j < data.length; j++) {
 		var g = svg.append("g").attr("class","journal");
 
-		var circles = g.selectAll("rect")
+		var squares = g.selectAll("rect")
 			.data(data[j]['periods'])
 			.enter()
 			.append("rect");
@@ -107,22 +109,23 @@ x.domain([start_year, end_year]);
 
 		var rScale = d3.scale.linear()
 			.domain([0, d3.max(data[j]['periods'], function(d) { return d[1]; })])
-			.range([2, 9]);
+			.range([2, 12]);
 
-		circles
+		squares
 			.attr("x", function(d, i) { return xScale(d[0]); })
 			.attr("y", j*20+20)
 			.attr("width", function(d) { return rScale(d[1]); })
       .attr("height", function(d) { return rScale(d[1]); })
-			.style("fill", function(d) { return c(j); })
-      .on("mouseover",showTooltip);
+			.style("fill", function(d) {return c2(d[1])})
+			.call(d3.attachTooltip)
+			.on("mouseover",showTooltip);
 
 		text
 			.attr("y", j*20+25)
 			.attr("x",function(d, i) { return xScale(d[0])-5; })
 			.attr("class","value")
-			.text(function(d){ return d[1]; })
-			.style("fill", function(d) { return c(j); })
+			.text(function(d){ return d[1]+"%"; })
+			.style("fill", function(d) {return c2(d[1])})
 			.style("display","none");
 
 		g.append("text")
@@ -147,9 +150,16 @@ x.domain([start_year, end_year]);
 		d3.select(g).selectAll("text.value").style("display","none");
 	}
   function showTooltip(d){
+		template = _.template("<strong><%=nombre%></strong> - <%= cargo %>")
     year = byYear.filter(function (y){return +y.key==d[0];});
     year = year.pop();
     mujeres = year.values.filter(function(m){return m.mujer});
-    console.log(mujeres);
+		text = "<span class='right'>"+d[0]+"</span><strong> Legislatura:</strong> "+d[4]+"<br>";
+		text +="<strong> Mujeres:</strong> "+d[1]+"%<p>";
+		mujeres.forEach(function(m){
+			text+=template(m)+"<br>";
+		})
+		text+="</p>"
+		d3.select('.tooltip').html(text)
   }
 });
