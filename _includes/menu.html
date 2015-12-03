@@ -1,12 +1,22 @@
 <!-- Nav -->
   <nav id="nav">
     <ul>
-      <li><a class="icon fa-venus" href="index.html"><span>Introduction</span></a></li>
-      <li><a class="icon fa-cog" href="politica.html"><span>Política</span></a></li>
+      <li><a class="icon fa-venus" href="{{ site.baseurl }}/index.html"><span>Inicio</span></a></li>
+      <li><a class="icon fa-cog" href="#">
+        <span>Política</span></a>
+        <ul>
+          <li><a href="{{ site.baseurl }}/politica/partidos.html">Partidos Políticos</a></li>
+          <li><a href="{{ site.baseurl }}/politica/gobierno.html">Gobierno</a></li>
+          <li><a href="{{ site.baseurl }}/politica/congreso.html">Congreso / Parlamento</a></li>
+          <li><a href="{{ site.baseurl }}/politica/comunidades.html">Comunidades Autónomas</a></li>
+          <li><a href="{{ site.baseurl }}/politica/europa.html">Europa</a></li>
+          <li><a href="{{ site.baseurl }}/politica/mundo.html">Mundo</a></li>
+        </ul>
+      </li>
       <li><a class="icon fa-money" href="right-sidebar.html"><span>Economía</span></a></li>
-      <li><a class="icon fa-book" href="academia.html"><span>Academia</span></a></li>
-      <li><a class="icon fa-balance-scale" href="no-sidebar.html"><span>Justicia</span></a></li>
-      <li><a class="icon fa-video-camera" href="no-sidebar.html"><span>Medios</span></a></li>
+      <li><a class="icon fa-book" href="{{ site.baseurl }}/academia.html"><span>Academia</span></a></li>
+      <li><a class="icon fa-balance-scale" href="{{ site.baseurl }}/no-sidebar.html"><span>Justicia</span></a></li>
+      <li><a class="icon fa-video-camera" href="{{ site.baseurl }}/no-sidebar.html"><span>Medios</span></a></li>
       <!--
       <li>
         <a href="#" class="icon fa-bar-chart-o"><span>Dropdown</span></a>

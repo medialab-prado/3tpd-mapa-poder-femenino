@@ -1,0 +1,23 @@
+#header-banner #logo{
+  margin-top: 1em;
+}
+#features-wrapper{
+  padding-top: 3em;
+}
+#features h2{
+  color: #9D8D8D;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.internal-menu{
+  margin: 1.5em;
+}
+.visualization{
+  width: 80%;
+  background: #c0c0c0;
+  margin: 1.5em auto;
+  border: 1px solid;
+}
+.visualization > .tableauPlaceholder{
+}
