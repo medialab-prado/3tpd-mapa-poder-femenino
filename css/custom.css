@@ -2,7 +2,7 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
-#header-banner {
+#header,#header-banner {
 	border-bottom: none;
 	box-shadow: none;
 }
@@ -20,6 +20,10 @@ body {
 	padding-top: 2em;
 }
 
+#content > article {
+	border-top:none;
+	box-shadow:none;
+}
 #header-banner #logo {
 	margin-top: 1em;
 }
@@ -105,6 +109,46 @@ body {
 .internal-menu {
 	margin: 1.5em;
 }
+
+#main-wrapper h1{
+	font-family: 'Lato', sans-serif;
+	color: #4a3700;
+	font-size: 1.8em;
+}
+#main-wrapper header{
+	text-align:center;
+}
+#main-wrapper header h1{
+	margin-top: 1em;
+}
+.subtitle{
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.2em;
+	color: #fff;
+	padding: 1em 20%;
+	margin-bottom: 2em;
+}
+.politica .subtitle{
+	background: #1c6047;
+}
+
+.economia .subtitle{
+	background: #577b1c;
+}
+
+.academia .subtitle{
+	background: #a99d3d;
+}
+
+.justicia .subtitle{
+	background: #9e8a00;
+}
+
+.medios .subtitle{
+	background: #a65f00;
+}
+
 
 .visualization {
 	width: 80%;
