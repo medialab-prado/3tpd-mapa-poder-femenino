@@ -1,27 +1,123 @@
-#header-banner #logo{
-  margin-top: 1em;
+body {
+	font-family: 'Lato', sans-serif;
 }
-#features-wrapper{
-  padding-top: 3em;
+
+#header-banner {
+	border-bottom: none;
+	box-shadow: none;
 }
-#features h2{
-  color: #9D8D8D;
-    font-size: 1.3em;
-    letter-spacing: 2px;
-    font-weight: bold;
+
+#header h1, #header-banner h1 {
+	font-family: 'Lato', sans-serif;
+	color: #4a3700;
 }
-.internal-menu{
-  margin: 1.5em;
+
+#header h2, #header-banner h2 {
+	color: #9D8D8D;
+	font-size: 1.2em;
+	letter-spacing: 2px;
+	font-weight: bold;
+	padding-top: 2em;
 }
-.visualization{
-  width: 80%;
-  background: #c0c0c0;
-  margin: 1.5em auto;
-  border: 1px solid;
+
+#header-banner #logo {
+	margin-top: 1em;
 }
-.visualization > .tableauPlaceholder{
+
+#features-wrapper {
+	padding-top: 0em;
+	padding-bottom: 1em;
 }
-ul.vertical li{
-  float:left;
-  margin-right: 1em;
+
+.main-topic {
+    margin: 5px 0 0px;
+    height: 247px;
+    display: inline-block;
+    }
+
+.main-topic>div {
+	padding: 0;
+}
+
+.main-topic div:nth-child(1) {
+	text-align: left;
+}
+
+.main-topic .pregunta h1 {
+	color: #fff;
+	margin-top: 2em;
+	text-transform: none;
+	font-size: 1.55em;
+}
+
+.main-topic .pregunta .small {
+	font-size: 20px;
+}
+
+.main-topic .pregunta h2 {
+	text-transform: none;
+	color: #f8e27a;
+	font-size: 1.3em;
+	letter-spacing: normal;
+	margin-top: 1em;
+}
+
+.main-topic .opciones{
+	padding: 2em;
+	text-align: left;
+	color: #fff;
+}
+.main-topic .opciones i{
+	margin-right: 7px;
+}
+.main-topic .opciones a{
+	color:#f8e27a;
+	font-size: 1.2em;
+	border-color:#f8e27a;
+}
+/* Containers home*/
+.container-politica {
+	background: #1c6047;
+}
+
+.container-economia {
+	background: #577b1c;
+}
+
+.container-academia {
+	background: #a99d3d;
+}
+
+.container-academia .pregunta h2,
+.container-academia .opciones a{
+	color: #1c5f47;
+	border-color:#1c5f47;
+}
+
+.container-justicia {
+	background: #9e8a00;
+}
+
+.container-medios {
+	background: #a65f00;
+}
+
+.internal-menu {
+	margin: 1.5em;
+}
+
+.visualization {
+	width: 80%;
+	background: #c0c0c0;
+	margin: 1.5em auto;
+	border: 1px solid;
+}
+
+.visualization>.tableauPlaceholder {
+	
+}
+
+ul.vertical li {
+	float: left;
+	margin-right: 1em;
 }
