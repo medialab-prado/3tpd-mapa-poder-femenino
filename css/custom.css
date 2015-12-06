@@ -21,3 +21,7 @@
 }
 .visualization > .tableauPlaceholder{
 }
+ul.vertical li{
+  float:left;
+  margin-right: 1em;
+}
