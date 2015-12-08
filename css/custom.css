@@ -2,6 +2,10 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
+article section:first-child{
+	margin-top: 1em;
+}
+
 #header,#header-banner {
 	border-bottom: none;
 	box-shadow: none;
@@ -37,7 +41,13 @@ body {
     margin: 5px 0 0px;
     height: 247px;
     display: inline-block;
-    }
+    width: 100%;
+}
+
+.main-topic a:hover {
+    color: rgb(202, 192, 182);
+    border-bottom-color: rgba(255, 255, 255, 0);
+}
 
 .main-topic>div {
 	padding: 0;
@@ -83,7 +93,9 @@ body {
 .container-politica {
 	background: #1c6047;
 }
-
+.container-politica .opciones{
+	padding: 1em 2em;
+}
 .container-economia {
 	background: #577b1c;
 }
@@ -157,6 +169,9 @@ body {
 	border: 1px solid;
 }
 
+.back-white{
+	background-color: #fff;
+}
 .visualization>.tableauPlaceholder {
 	
 }
