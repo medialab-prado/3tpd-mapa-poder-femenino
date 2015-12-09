@@ -191,7 +191,9 @@ article section:first-child{
 	margin: 1.5em auto !important;
 	border: 1px solid;
 }
-
+.visualization-big {
+	width: 90%;
+}
 .back-white{
 	background-color: #fff;
 }
