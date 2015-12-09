@@ -1,5 +1,6 @@
 #gobierno{
 	margin-top:1em;
+	overflow:scroll;
 }
 .vis{
   font-family: Arial, sans-serif;font-size:10px;
