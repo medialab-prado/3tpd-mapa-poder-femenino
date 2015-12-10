@@ -175,6 +175,9 @@ article section:first-child{
 .politica .subtitle{
 	background: #1c6047;
 }
+.politica .quote{
+	color: #1c6047;
+}
 
 .economia .subtitle{
 	background: #577b1c;
@@ -199,6 +202,19 @@ article section:first-child{
 }
 .visualization-big {
 	width: 90%;
+}
+.quote{
+	float: right;
+	width: 33%;
+	margin: 1em;
+	padding: 1em 0;
+	font-size: 2em;
+	font-family: Lato;
+	line-height: 1.2em;
+	border-top: 8px dotted;
+	border-bottom: 8px dotted;
+}
+.quote::before{
 }
 .back-white{
 	background-color: #fff;
