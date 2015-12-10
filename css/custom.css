@@ -207,6 +207,13 @@ article section:first-child{
 	text-align: right;
 	font-size: small;
 }
+.author{
+	font-size: 0.9em;
+    border-bottom: 1px solid #c0c0c0;
+    margin-bottom: 1em;
+    /* padding-bottom: 1em; */
+    border-top: 1px solid #c0c0c0;
+}
 .visualization>.tableauPlaceholder {
 	
 }
