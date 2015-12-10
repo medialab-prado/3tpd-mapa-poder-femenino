@@ -208,11 +208,11 @@ article section:first-child{
 	width: 33%;
 	margin: 1em;
 	padding: 1em 0;
-	font-size: 2em;
-	font-family: Lato;
+	font-size: 200%;
 	line-height: 1.2em;
 	border-top: 8px dotted;
 	border-bottom: 8px dotted;
+	text-align: center;
 }
 .quote::before{
 }
