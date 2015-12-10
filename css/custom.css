@@ -182,17 +182,29 @@ article section:first-child{
 .economia .subtitle{
 	background: #577b1c;
 }
+.economia .quote{
+	color: #577b1c;
+}
 
 .academia .subtitle{
 	background: #a99d3d;
+}
+.academia .quote{
+	color: #a99d3d;
 }
 
 .justicia .subtitle{
 	background: #9e8a00;
 }
+.justicia .quote{
+	color: #9e8a00;
+}
 
 .medios .subtitle{
 	background: #a65f00;
+}
+.medios .quote{
+	color: #a65f00;
 }
 
 
@@ -209,13 +221,21 @@ article section:first-child{
 	margin: 1em;
 	padding: 1em 0;
 	font-size: 200%;
+	font-family: 'Libre Baskerville', serif;
 	line-height: 1.2em;
-	border-top: 8px dotted;
-	border-bottom: 8px dotted;
+	border-top: 8px solid;
+	border-bottom: 8px solid;
 	text-align: center;
 }
-.quote::before{
+.quote.left{
+	float: left;
 }
+
+.quote.full{
+	float: none;
+	width: 100%;
+}
+
 .back-white{
 	background-color: #fff;
 }
