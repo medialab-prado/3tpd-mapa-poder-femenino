@@ -6,6 +6,9 @@ article section:first-child{
 	margin-top: 1em;
 }
 
+.container{
+	width: 1100px;
+}
 #header,#header-banner {
 	border-bottom: none;
 	box-shadow: none;
@@ -37,6 +40,11 @@ article section:first-child{
 	padding-bottom: 1em;
 }
 
+#footer-wrapper{
+	background: #fff;
+	border-top: none;
+	padding-top: 3em;
+}
 .main-topic {
     margin: 5px 0 0px;
     height: 247px;
