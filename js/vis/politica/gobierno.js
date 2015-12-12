@@ -77,8 +77,9 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
 	d.mujer = d.sexo=='Mujer'
   })
 
-  
+  console.log(gobierno)
   var byLegislatura = d3.nest().key(d3.f('legislaturaN')).entries(gobierno);
+  console.log(byLegislatura)
   var byYear = d3.nest().key(d3.f('year')).entries(gobierno);
 
   
