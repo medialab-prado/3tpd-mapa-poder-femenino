@@ -44,6 +44,11 @@ article > section:first-child{
 	background: #fff;
 	border-top: none;
 	padding-top: 3em;
+	padding-bottom: 0;
+}
+#footer-wrapper h2{
+	color: #4a3700;
+	text-align: left;
 }
 .main-topic {
     margin: 5px 0 0px;
