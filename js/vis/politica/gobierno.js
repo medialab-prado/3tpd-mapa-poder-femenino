@@ -157,7 +157,7 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
 			.attr("x",width+20)
 			.attr("class","label")
 			.text(truncate(data[j]['name'],30,"..."))
-			.style("fill", function(d) { return c(1); })
+			.style("fill", function(d) { return "#999"; })
 			.on("mouseover", mouseover)
 			.on("mouseout", mouseout);
 	};
