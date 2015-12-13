@@ -239,6 +239,9 @@ article > section:first-child{
 .economia .section-footer{
 	margin: 0 20%;
 }
+.justicia .section-footer{
+	margin: 0 28%;
+}
 /* Responsive styles */
 @media screen and (max-width: 736px){
 	header > img{
