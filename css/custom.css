@@ -137,9 +137,7 @@ article > section:first-child{
 .container-economia .menina{
 	background: url('../assets/meninas/economia.jpg');
 }
-.container-economia .pregunta h1{
-	margin-top: 1em;
-}
+
 .container-academia .menina{
 	background: url('../assets/meninas/academia.jpg');
 }
@@ -176,11 +174,9 @@ article > section:first-child{
 }
 
 .visualization {
-	/* width: 80%; */
 	margin: 1.5em auto !important;
 }
 .visualization-big {
-	/* width: 90%; */
 }
 .quote{
 	float: right;
@@ -232,8 +228,13 @@ article > section:first-child{
 	bottom: 0px;
 	right: 1em;
 }
-
-
+.section-footer{
+	text-align: center;
+}
+.section-footer li{
+	float: left;
+	padding: 0 2em 0 1em;
+}
 /* Responsive styles */
 @media screen and (max-width: 736px){
 	header > img{
