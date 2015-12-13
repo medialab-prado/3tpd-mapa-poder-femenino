@@ -56,6 +56,8 @@ article > section:first-child{
 	padding-top: 0em;
 	padding-bottom: 1em;
 }
+
+#header-wrapper .container,
 #features-wrapper .container{
 	width: 1100px;
 }
@@ -237,6 +239,12 @@ article > section:first-child{
 	header > img{
 		width: 100%;
 	}
+	#header{
+		padding:1em 0 0 0 ;
+	}
+	#header-banner{
+		padding-top: 4em;
+	}
 	#content > article{
 		padding-top: 0 !important;
 		margin-top: 1em !important;
@@ -257,6 +265,11 @@ article > section:first-child{
 	}
 	.visualization {
 		width: 95%;
+	}
+	.quote{
+		float: none;
+		width: 100%;
+		margin: 1em 0;
 	}
 	.back{
 		position: relative;
