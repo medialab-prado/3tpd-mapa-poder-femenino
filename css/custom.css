@@ -55,6 +55,7 @@ article > section:first-child{
     height: 247px;
     display: inline-block;
     width: 100%;
+    background: #f6eee0;
 }
 
 .main-topic a:hover {
@@ -74,7 +75,7 @@ article > section:first-child{
 	padding-left: 1em;
 }
 .main-topic .pregunta h1 {
-	color: #fff;
+	color: #4a3700;
 	margin-top: 2em;
 	text-transform: none;
 	font-size: 1.55em;
@@ -86,7 +87,7 @@ article > section:first-child{
 
 .main-topic .pregunta h2 {
 	text-transform: none;
-	color: #f8e27a;
+	color: #999;
 	font-size: 1.3em;
 	letter-spacing: normal;
 	margin-top: 1em;
@@ -109,14 +110,8 @@ article > section:first-child{
 	background-size: cover !important;
 }
 /* Containers home*/
-.container-politica {
-	background: #1c6047;
-}
 .container-politica .menina{
 	background: url('../assets/meninas/politica.jpg');
-}
-.container-economia {
-	background: #577b1c;
 }
 .container-economia .menina{
 	background: url('../assets/meninas/economia.jpg');
@@ -124,36 +119,12 @@ article > section:first-child{
 .container-economia .pregunta h1{
 	margin-top: 1em;
 }
-.container-economia .opciones{
-	padding: 3em 2em;
-}
-.container-academia {
-	background: #a99d3d;
-}
 .container-academia .menina{
 	background: url('../assets/meninas/academia.jpg');
 }
-.container-academia .opciones{
-	padding: 3.5em 2em;
-}
 
-.container-academia .pregunta h2,
-.container-academia .opciones a{
-	color: #1c5f47;
-	border-color:#1c5f47;
-}
-
-.container-justicia {
-	background: #9e8a00;
-}
 .container-justicia .menina{
 	background: url('../assets/meninas/justicia.jpg');
-}
-.container-justicia .opciones{
-	padding: 4.5em 2em;
-}
-.container-medios {
-	background: #a65f00;
 }
 .container-medios .menina{
 	background: url('../assets/meninas/comunicacion.jpg');
@@ -267,12 +238,13 @@ article > section:first-child{
 }
 
 .share{
-	color: #fff;
 	font-size: 15px;
-	margin-right: 0 auto;
+	float: right;
+	margin-right: 1em;
+	margin-top:2em;
 }
 .share a{
-	color: #fff;
+	color: #777;
 	text-decoration: none;
 	border-bottom: none;
 }
@@ -282,32 +254,7 @@ article > section:first-child{
 	right: 1em;
 }
 
-.main-topic {
-/* 	background: #1c6047 !important;
- */	background: #f6eee0 !important;
-}
-.main-topic h1{
- 	color: #4a3700 !important; 
-}
-.main-topic h2{
- 	color: #999 !important; 
-}
-.main-topic .pregunta .small{
-	font-size: 100%;
-}
-.main-topic .opciones a{
-	color: grey;
-}
-.main-topic div:nth-child(2){
-	width: 60%;
-}
-.main-topic div:nth-child(3){
- 	display:none; 
-}
-.share ,.share a{
-	float:right;
- 	color: grey !important; 
-}
+/** Borrar */
 .subtitle{
 	background: none !important;
 	color: grey;
@@ -321,6 +268,8 @@ article > section:first-child{
 .vertical ul li {
 	float:left;
 }
+/** /Borrar */
+
 /* Responsive styles */
 @media screen and (max-width: 736px){
 	header > img{
