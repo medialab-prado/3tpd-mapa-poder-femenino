@@ -235,7 +235,8 @@ article > section:first-child{
 	float: left;
 	padding: 0 2em 0 1em;
 }
-.academia .section-footer{
+.academia .section-footer,
+.economia .section-footer{
 	margin: 0 20%;
 }
 /* Responsive styles */
