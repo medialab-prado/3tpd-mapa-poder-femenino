@@ -2,12 +2,19 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
+h3{
+	color: #777;
+}
 article > section:first-child{
 	margin-top: 1em;
 }
 
 .container{
-	width: 1100px;
+	/* width: 1100px; */
+	width: 980px;
+}
+#header{
+	padding-bottom: 5em;
 }
 #header,#header-banner {
 	border-bottom: none;
@@ -26,13 +33,22 @@ article > section:first-child{
 	font-weight: bold;
 	padding-top: 2em;
 }
-
+#nav > ul > li {
+	padding: 7px;
+	margin: 5px 0.5em;
+}
+#nav > ul > li.selected{
+	background: #f6eee0;
+	border-radius: 10px;
+}
 #content > article {
 	border-top:none;
 	box-shadow:none;
 }
+#header-banner{
+	padding-top: 8em;
+}
 #header-banner #logo {
-	margin-top: 1em;
 }
 
 #features-wrapper {
@@ -149,68 +165,26 @@ article > section:first-child{
 	font-weight: bold;
 	text-align: center;
 	font-size: 1.2em;
-	color: #fff;
-	padding: 1em 20%;
+	color: #999;
+	padding: 0 10%;
 	margin-bottom: 2em;
 }
-.politica .subtitle{
-	background: #1c6047;
-}
-.politica .quote,
-.politica h3{
-	color: #1c6047;
-}
-
-.economia .subtitle{
-	background: #577b1c;
-}
-.economia .quote,
-.economia 	h3{
-	color: #577b1c;
-}
-
-.academia .subtitle{
-	background: #a99d3d;
-}
-.academia .quote,
-.academia h3{
-	color: #a99d3d;
-}
-
-.justicia .subtitle{
-	background: #9e8a00;
-}
-.justicia .quote,
-.justicia h3{
-	color: #9e8a00;
-}
-
-.medios .subtitle{
-	background: #a65f00;
-}
-.medios .quote,
-.medios h3{
-	color: #a65f00;
-}
-
 
 .visualization {
-	width: 80%;
+	/* width: 80%; */
 	margin: 1.5em auto !important;
 }
 .visualization-big {
-	width: 90%;
+	/* width: 90%; */
 }
 .quote{
 	float: right;
 	width: 33%;
 	margin: 10px 1em;
-	padding: 1em 0;
+	padding: 0.5em 0;
 	font-size: 200%;
 	font-family: 'Libre Baskerville', serif;
 	line-height: 1.2em;
-	border-top: 8px solid;
-	border-bottom: 8px solid;
 	text-align: center;
 }
 .quote.left{
@@ -254,21 +228,6 @@ article > section:first-child{
 	right: 1em;
 }
 
-/** Borrar */
-.subtitle{
-	background: none !important;
-	color: grey;
-	font-size: 1.2em;
-	padding: 0 10%;
-}
-.quote{
-	color: grey !important;
-	border: none;
-}
-.vertical ul li {
-	float:left;
-}
-/** /Borrar */
 
 /* Responsive styles */
 @media screen and (max-width: 736px){

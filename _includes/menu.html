@@ -2,7 +2,7 @@
   <nav id="nav">
     <ul>
       <li><a class="icon fa-venus" href="{{ site.baseurl }}/index.html"><span>Inicio</span></a></li>
-      <li><a class="icon fa-cog" href="#">
+      <li {% if page.section =='politica' %} class="selected" {% endif %}><a class="icon fa-cog" href="{{ site.baseurl }}/politica/mundo.html">
         <span>Política</span></a>
         <ul>
           <li><a href="{{ site.baseurl }}/politica/partidos.html">Partidos Políticos</a></li>
@@ -13,7 +13,7 @@
           <li><a href="{{ site.baseurl }}/politica/mundo.html">Mundo</a></li>
         </ul>
       </li>
-      <li><a class="icon fa-money" href="#">
+      <li {% if page.section =='economia' %} class="selected" {% endif %}><a class="icon fa-money" href="{{ site.baseurl }}/economia/espana.html">
       	<span>Economía</span></a>
       	<ul>
       	<li><a href="{{ site.baseurl }}/economia/espana.html">España</a></li>
@@ -22,21 +22,21 @@
       	<li><a href="{{ site.baseurl }}/economia/cuotas.html">Cuotas</a></li>
       	</ul>
       </li>
-      <li><a class="icon fa-book" href="#">
-      <span>Academia</span></a>
+      <li {% if page.section =='academia' %} class="selected" {% endif %}><a class="icon fa-book" href="{{ site.baseurl }}/academia/universidades.html">
+      <span>Academia</span> </a>
       <ul>
       	<li><a href="{{ site.baseurl }}/academia/reales_academias.html">Reales Academias</a></li>
       	<li><a href="{{ site.baseurl }}/academia/universidades.html">Universidades</a></li>
       	<li><a href="{{ site.baseurl }}/academia/testimonio.html">Un baño de realidad</a></li>
       </ul>
       </li>
-      <li><a class="icon fa-balance-scale" href="#">
+      <li {% if page.section =='justicia' %} class="selected" {% endif %}><a class="icon fa-balance-scale" href="{{ site.baseurl}}/justicia/carrera_judicial.html">
       	<span>Justicia</span></a>
       	<ul>
       		<li><a href="{{ site.baseurl}}/justicia/carrera_judicial.html">Carrera Judicial</a></li>
       		<li><a href="{{ site.baseurl}}/justicia/tribunal_constitucional.html">Tribunal Constitucional</a></li>
       	</ul>
       </li>
-      <li><a class="icon fa-video-camera" href="{{ site.baseurl }}/medios/"><span>Medios</span></a></li>
+      <li {% if page.section =='medios' %} class="selected" {% endif %}><a class="icon fa-video-camera" href="{{ site.baseurl }}/medios/"><span>Medios</span></a></li>
     </ul>
   </nav>
