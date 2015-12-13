@@ -235,6 +235,9 @@ article > section:first-child{
 	float: left;
 	padding: 0 2em 0 1em;
 }
+.academia .section-footer{
+	margin: 0 20%;
+}
 /* Responsive styles */
 @media screen and (max-width: 736px){
 	header > img{
@@ -275,5 +278,11 @@ article > section:first-child{
 	.back{
 		position: relative;
 		float: right;
+	}
+	.section-foooter{
+		margin: 0 !important;
+	}
+	.section-footer li{
+		width: 100%;
 	}
 }
