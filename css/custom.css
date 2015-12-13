@@ -9,10 +9,6 @@ article > section:first-child{
 	margin-top: 1em;
 }
 
-.container{
-	/* width: 1100px; */
-	width: 980px;
-}
 #header{
 	padding-bottom: 5em;
 }
@@ -51,11 +47,18 @@ article > section:first-child{
 #header-banner #logo {
 }
 
+#main-wrapper .container{
+	/* width: 1100px; */
+	width: 980px;
+}
+
 #features-wrapper {
 	padding-top: 0em;
 	padding-bottom: 1em;
 }
-
+#features-wrapper .container{
+	width: 1100px;
+}
 #footer-wrapper{
 	background: #fff;
 	border-top: none;
