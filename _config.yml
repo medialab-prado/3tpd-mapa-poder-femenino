@@ -1,13 +1,10 @@
 # Site settings
 title: Mapa del poder femenino en España
 email: algo@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Las mujeres españolas han conquistado poco a poco mayores cotas de visibilidad desde la vuelta de la democracia a nuestro país. Sin embargo, el reparto de poder entre hombres y mujeres aún no representa una imagen fiel de la división demográfica de la sociedad española. Muchas de las instituciones y centros de decisión es España no son paritarios, es decir, no cuentan con una distribución equitativa entre ambos géneros. Sin embargo, ¿cuáles son las áreas donde esa disparidad es más flagrante: la economía, la política, la academia, el deporte? ¿En qué campos se han logrado mayores avances? ¿Han servido de algo iniciativas como la de fomentar la composición de gobiernos paritarios? ¿Cuál es la situación en los países de nuestro entorno?
 baseurl: "/3tpd-mapa-poder-femenino" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: MPoder_Femenino
 #github_username:  jekyll
 
 # Build settings
