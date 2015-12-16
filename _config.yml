@@ -3,7 +3,7 @@ title: Mapa del poder femenino en España
 email: algo@domain.com
 description: Las mujeres españolas han conquistado poco a poco mayores cotas de visibilidad desde la vuelta de la democracia a nuestro país. Sin embargo, el reparto de poder entre hombres y mujeres aún no representa una imagen fiel de la división demográfica de la sociedad española.
 #baseurl: "/3tpd-mapa-poder-femenino" # the subpath of your site, e.g. /blog/
-url: "https://mapapoderfemenino.com/" # the base hostname & protocol for your site
+url: "http://mapapoderfemenino.com/" # the base hostname & protocol for your site
 twitter_username: MPoder_Femenino
 #github_username:  jekyll
 

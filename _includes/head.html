@@ -17,4 +17,11 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/vis.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie8.css" /><![endif]-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <script>
+    if(location.href.indexOf('localhost') =-1 && location.href.indexOf('0.0.0.0') ==-1 &&
+      location.href.indexOf('mapapoderfemenino.com') == -1
+      ){
+    location.href="http://mapapoderfemenino.com"+location.pathname;
+  }
+  </script>
 </head>
