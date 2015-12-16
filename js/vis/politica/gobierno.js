@@ -54,11 +54,11 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
       case 'Decima': d.legislaturaN = 110;break;
       default: d.legislaturaN = 0;
     }
-	d.date = d.year; 
+	d.date = d.year;
 	d_ = new Date(d.year.split('/').reverse().join("/"));
 	d.year = d_.getFullYear();
 	d.month = d_.getMonth() + 1;
-	
+
 	if(!cache.hasOwnProperty(d.legislatura)){
 		cache[d.legislatura]={};
 		cache[d.legislatura][d.year]={};
@@ -69,20 +69,18 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
 	if(!cache[d.legislatura][d.year].hasOwnProperty(d.month)){
 		cache[d.legislatura][d.year][d.month]=1;
 	}
-	
+
 	if(Object.keys(cache[d.legislatura]).length >1){
 		d.legislaturaN+=Object.keys(cache[d.legislatura]).length-1;
 	}
-	d.legislatura+=" (" +d.month+"/"+d.year+")";	
+	d.legislatura+=" (" +d.month+"/"+d.year+")";
 	d.mujer = d.sexo=='Mujer'
   })
 
-  console.log(gobierno)
   var byLegislatura = d3.nest().key(d3.f('legislaturaN')).entries(gobierno);
-  console.log(byLegislatura)
   var byYear = d3.nest().key(d3.f('year')).entries(gobierno);
 
-  
+
   byLegislatura.forEach(function (d){
     d.name=d.values[0].legislatura;
     total = 0
@@ -106,7 +104,7 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
     d.total = total;
     d.periods = periods_;
   });
-  
+
 	data = byLegislatura;
 	x.domain([start_year, end_year]);
 	var xScale = d3.scale.linear()
@@ -183,7 +181,7 @@ d3.csv('../datasets/gobierno.csv', function(gobierno){
 	text +="<strong> Mujeres:</strong> "+d[1]+"%<p>";
 	var cache = [];
 	mujeres.forEach(function(m){
-		hash = m.cargo + m.nombre; 
+		hash = m.cargo + m.nombre;
 		if(cache.indexOf(hash)==-1){
 			text+=template(m)+"<br>";
 			cache.push(hash);
