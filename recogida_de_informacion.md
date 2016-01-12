@@ -1,0 +1,3 @@
+## Recopilación de información
+
+La mayoría de los datos referentes a España recopilados para este trabajo proceden del Instituto de la Mujer. Además, algunas bases de datos, que no existían, has sido construidas específicamente para este proyecto. En el caso de las cifras referidas a otros países, se ha recurrido a varias fuentes, como Eurostat. En todo caso, en este mismo proyecto existe un documento que recopila las fuentes de todas las bases de datos.

@@ -1,0 +1,868 @@
+legislatura,year,cargo,nombre,sexo
+Constituyente,5/07/1977,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Constituyente,5/07/1977,Vicepresidente primero del Gobierno y ministro de Defensa,Manuel Gutiérrez Mellado,Hombre
+Constituyente,5/07/1977,Vicepresidente segundo del Gobierno y ministro de Economía,Enrique Fuentes Quintana,Hombre
+Constituyente,5/07/1977,Vicepresidente tercero del Gobierno,Fernando Abril Martorell,Hombre
+Constituyente,5/07/1977,Ministro de Asuntos Exteriores,Marcelino Oreja Aguirre,Hombre
+Constituyente,5/07/1977,Ministro de Justicia,Landelino Lavilla Alsina,Hombre
+Constituyente,5/07/1977,Ministro de Hacienda,Francisco Fernández Ordóñez,Hombre
+Constituyente,5/07/1977,Ministro del Interior,Rodolfo Martín Villa,Hombre
+Constituyente,5/07/1977,Ministro de Obras Públicas y Urbanismo,Joaquín Garrigues Walker,Hombre
+Constituyente,5/07/1977,Ministro de Educación y Ciencia,Íñigo Cavero Lataillade,Hombre
+Constituyente,5/07/1977,Ministro de Trabajo,Manuel Jiménez de Parga Cabrera,Hombre
+Constituyente,5/07/1977,Ministro de Industria y Energía,Alberto Oliart Saussol,Hombre
+Constituyente,5/07/1977,Ministro de Agricultura,José Enrique Martínez Genique,Hombre
+Constituyente,5/07/1977,Ministro de Comercio y Turismo,Juan Antonio García Díez,Hombre
+Constituyente,5/07/1977,Ministro de la Presidencia del Gobierno,José Manuel Otero Novas,Hombre
+Constituyente,5/07/1977,Ministro de Transportes y Comunicaciones,José Lladó y Fernández Urrutia,Hombre
+Constituyente,5/07/1977,Ministro de Sanidad y Seguridad Social,Enrique Sánchez de León Pérez,Hombre
+Constituyente,5/07/1977,Ministro de Cultura y Bienestar,Pío Cabanillas Gallas,Hombre
+Constituyente,5/07/1977,Ministro adjunto para las Regiones,Manuel Clavero Arévalo,Hombre
+Constituyente,5/07/1977,Ministro adjunto para las Relaciones con las Cortes,Ignacio Camuñas,Hombre
+Constituyente,25/02/1978,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Constituyente,25/02/1978,Vicepresidente primero del Gobierno y Ministro de Defensa,Manuel Gutiérrez Mellado,Hombre
+Constituyente,25/02/1978,Vicepresidente segundo del Gobierno y Ministro de Economía,Fernando Abril Martorell,Hombre
+Constituyente,25/02/1978,Ministro de Asuntos Exteriores,Marcelino Oreja Aguirre,Hombre
+Constituyente,25/02/1978,Ministro de Justicia,Landelino Lavilla Alsina,Hombre
+Constituyente,25/02/1978,Ministro de Hacienda,Francisco Fernández Ordóñez,Hombre
+Constituyente,25/02/1978,Ministro del Interior,Rodolfo Martín Villa,Hombre
+Constituyente,25/02/1978,Ministro de Obras Públicas y Urbanismo,Joaquín Garrigues Walker,Hombre
+Constituyente,25/02/1978,Ministro de Educación y Ciencia,Íñigo Cavero Lataillade,Hombre
+Constituyente,25/02/1978,Ministro de Trabajo,Rafael Calvo Ortega,Hombre
+Constituyente,25/02/1978,Ministro de Industria y Energía,Agustín Rodríguez Sahagún,Hombre
+Constituyente,25/02/1978,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcin,Hombre
+Constituyente,25/02/1978,Ministro de Comercio y Turismo,Juan Antonio García Díez,Hombre
+Constituyente,25/02/1978,Ministro de la Presidencia del Gobierno,José Manuel Otero Novas,Hombre
+Constituyente,25/02/1978,Ministro de Transportes y Comunicaciones,Salvador Sánchez-Terán Hernández,Hombre
+Constituyente,25/02/1978,Ministro de Sanidad y Seguridad Social,Enrique Sánchez de León Pérez,Hombre
+Constituyente,25/02/1978,Ministro de Cultura,Pío Cabanillas Gallas,Hombre
+Constituyente,25/02/1978,Ministro adjunto para las Regiones,Manuel Clavero Arévalo,Hombre
+Constituyente,25/02/1978,Ministro de Relaciones con las Comunidades Europeas,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,6/04/1979,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Primera,6/04/1979,Vicepresidente primero del Gobierno y Encargado de asuntos de la Seguridad y Defensa Nacional,Manuel Gutiérrez Mellado,Hombre
+Primera,6/04/1979,Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos,Fernando Abril Martorell,Hombre
+Primera,6/04/1979,Ministro de Asuntos Exteriores,Marcelino Oreja Aguirre,Hombre
+Primera,6/04/1979,Ministro de Justicia,Iñigo Cavero Lataillade,Hombre
+Primera,6/04/1979,Ministro de Defensa,Agustín Rodríguez Sahagún,Hombre
+Primera,6/04/1979,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,6/04/1979,Ministro de Interior,Antonio Ibáñez Freire,Hombre
+Primera,6/04/1979,Ministro de Obras Públicas y Urbanismo,Jesús Sancho Rof,Hombre
+Primera,6/04/1979,Ministro de Educación,José Manuel Otero Novas,Hombre
+Primera,6/04/1979,Ministro de Trabajo,Rafael Calvo Ortega,Hombre
+Primera,6/04/1979,Ministro de Industria y Energía,Carlos Bustelo y García del Real,Hombre
+Primera,6/04/1979,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,6/04/1979,Ministro de Comercio y Turismo,Juan Antonio García Díez,Hombre
+Primera,6/04/1979,Ministro de Presidencia,José Pedro Pérez-Llorca Rodrigo,Hombre
+Primera,6/04/1979,Ministro de Economía,José Luis Leal Maldonado,Hombre
+Primera,6/04/1979,Ministro de Transportes y Comunicaciones,Salvador Sánchez-Terán Hernández,Hombre
+Primera,6/04/1979,Ministro de Sanidad y Seguridad Social,Juan Rovira Tarazona,Hombre
+Primera,6/04/1979,Ministro de Cultura,Manuel Clavero Arévalo,Hombre
+Primera,6/04/1979,"Ministro adjunto al presidente, sin cartera",Joaquín Garrigues Walker,Hombre
+Primera,6/04/1979,"Ministro para las Relaciones con las Comunidades Europeas, sin cartera",Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,6/04/1979,"Ministro adjunto para las Relaciones con las Cortes, sin cartera",Rafael Arias-Salgado y Montalvo,Hombre
+Primera,6/04/1979,Ministro de Administración Territorial,Antonio Fontán Pérez,Hombre
+Primera,6/04/1979,Ministro de Universidades e Investigación,Luis González Seara,Hombre
+Primera,18/01/1980,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Primera,18/01/1980,Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional,Manuel Gutiérrez Mellado,Hombre
+Primera,18/01/1980,Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos,Fernando Abril Martorell,Hombre
+Primera,18/01/1980,Ministro de Asuntos Exteriores,Marcelino Oreja Aguirre,Hombre
+Primera,18/01/1980,Ministro de Justicia,Iñigo Cavero Lataillade,Hombre
+Primera,18/01/1980,Ministro de Defensa,Agustín Rodríguez Sahagún,Hombre
+Primera,18/01/1980,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,18/01/1980,Ministro de Interior,Antonio Ibáñez Freire,Hombre
+Primera,18/01/1980,Ministro de Obras Públicas y Urbanismo,Jesús Sancho Rof,Hombre
+Primera,18/01/1980,Ministro de Educación,José Manuel Otero Novas,Hombre
+Primera,18/01/1980,Ministro de Trabajo,Rafael Calvo Ortega,Hombre
+Primera,18/01/1980,Ministro de Industria y Energía,Carlos Bustelo y García del Real,Hombre
+Primera,18/01/1980,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,18/01/1980,Ministro de Comercio y Turismo,Juan Antonio García Díez,Hombre
+Primera,18/01/1980,Ministro de Presidencia,José Pedro Pérez-Llorca Rodrigo,Hombre
+Primera,18/01/1980,Ministro de Economía,José Luis Leal Maldonado,Hombre
+Primera,18/01/1980,Ministro de Transportes y Comunicaciones,Salvador Sánchez-Terán Hernández,Hombre
+Primera,18/01/1980,Ministro de Sanidad y Seguridad Social,Juan Rovira Tarazona,Hombre
+Primera,18/01/1980,Ministro de Cultura,Ricardo de la Cierva y Hoces,Hombre
+Primera,18/01/1980,"Ministro adjunto al presidente, sin cartera, coordinador de Asuntos Políticos",Rafael Arias-Salgado y Montalvo,Hombre
+Primera,18/01/1980,"Ministro adjunto al presidente, sin cartera",Joaquín Garrigues Walker,Hombre
+Primera,18/01/1980,"Ministro para las Relaciones con las Comunidades Europeas, sin cartera",Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,18/01/1980,Ministro de Administración Territorial,Antonio Fontán Pérez,Hombre
+Primera,18/01/1980,Ministro de Universidades e Investigación,Luis González Seara,Hombre
+Primera,3/05/1980,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Primera,3/05/1980,Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional,Manuel Gutiérrez Mellado,Hombre
+Primera,3/05/1980,Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos,Fernando Abril Martorell,Hombre
+Primera,3/05/1980,Ministro de Asuntos Exteriores,Marcelino Oreja Aguirre,Hombre
+Primera,3/05/1980,Ministro de Justicia,Iñigo Cavero Lataillade,Hombre
+Primera,3/05/1980,Ministro de Defensa,Agustín Rodríguez Sahagún,Hombre
+Primera,3/05/1980,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,3/05/1980,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,3/05/1980,Ministro de Obras Públicas y Urbanismo,Jesús Sancho Rof,Hombre
+Primera,3/05/1980,Ministro de Educación,José Manuel Otero Novas,Hombre
+Primera,3/05/1980,Ministro de Trabajo,Salvador Sánchez-Terán Hernández,Hombre
+Primera,3/05/1980,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,3/05/1980,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,3/05/1980,Ministro de Comercio y Turismo,Luis Gamir Casares,Hombre
+Primera,3/05/1980,Ministro de Presidencia,Rafael Arias-Salgado y Montalvo,Hombre
+Primera,3/05/1980,Ministro de Economía,José Luis Leal Maldonado,Hombre
+Primera,3/05/1980,Ministro de Transportes y Comunicaciones,José Luis Álvarez Álvarez,Hombre
+Primera,3/05/1980,Ministro de Sanidad y Seguridad Social,Juan Rovira Tarazona,Hombre
+Primera,3/05/1980,Ministro de Cultura,Ricardo de la Cierva y Hoces,Hombre
+Primera,3/05/1980,"Ministro para las Relaciones con las Comunidades Europeas, sin cartera",Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,3/05/1980,Ministro de Administración Territorial,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,3/05/1980,"Ministro Adjunto al presidente, sin cartera, encargado de la Administración Pública",Sebastián Martín-Retortillo y Baquer,Hombre
+Primera,3/05/1980,"Ministro Adjunto al Presidente, sin cartera, encargado de la coordinación legislativa",Juan Antonio Ortega y Díaz Ambrona,Hombre
+Primera,3/05/1980,Ministro de Universidades e Investigación,Luis González Seara,Hombre
+Primera,9/09/1980,Presidente del Gobierno,Adolfo Suárez González,Hombre
+Primera,9/09/1980,Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional,Manuel Gutiérrez Mellado,Hombre
+Primera,9/09/1980,Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,9/09/1980,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,9/09/1980,Ministro de Justicia,Francisco Fernández Ordoñez,Hombre
+Primera,9/09/1980,Ministro de Defensa,Agustín Rodríguez Sahagún,Hombre
+Primera,9/09/1980,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,9/09/1980,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,9/09/1980,Ministro de Obras Públicas y Urbanismo,Jesús Sancho Rof,Hombre
+Primera,9/09/1980,Ministro de Educación,Juan Antonio Ortega y Díaz Ambrona,Hombre
+Primera,9/09/1980,Ministro de Trabajo,Félix Manuel Pérez Miyares,Hombre
+Primera,9/09/1980,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,9/09/1980,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,9/09/1980,Ministro de Economía y Comercio,Juan Antonio García Diaz,Hombre
+Primera,9/09/1980,Ministro de Presidencia,Rafael Arias-Salgado y Montalvo,Hombre
+Primera,9/09/1980,Ministro de Transportes y Comunicaciones,José Luis Álvarez Álvarez,Hombre
+Primera,9/09/1980,Ministro de Sanidad y Seguridad Social,Alberto Oliart Saussol,Hombre
+Primera,9/09/1980,Ministro de Cultura,Íñigo Cavero Lataillade,Hombre
+Primera,9/09/1980,"Ministro Adjunto al Presidente, sin cartera",Pío Cabanillas Gallas,Hombre
+Primera,9/09/1980,"Ministro para las Relaciones con las Comunidades Europeas, sin cartera",Eduardo Punset Casals,Hombre
+Primera,9/09/1980,Ministro de Administración Territorial,Rodolfo Martín Villa,Hombre
+Primera,9/09/1980,"Ministro Adjunto al presidente, sin cartera, encargado de la Administración Pública",Sebastián Martín-Retortillo y Baquer,Hombre
+Primera,9/09/1980,Ministro de Universidades e Investigación,Luis González Seara,Hombre
+Primera,27/02/1981,Presidente del Gobierno,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,27/02/1981,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,27/02/1981,Ministro de Justicia,Francisco Fernández Ordoñez,Hombre
+Primera,27/02/1981,Ministro de Defensa,Alberto Oliart Saussol,Hombre
+Primera,27/02/1981,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,27/02/1981,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,27/02/1981,Ministro de Obras Públicas y Urbanismo,Luis Ortiz González,Hombre
+Primera,27/02/1981,Ministro de Educación y de Universidades e Investigación,Juan Antonio Ortega y Díaz Ambrona,Hombre
+Primera,27/02/1981,Ministro de Trabajo y de Sanidad y Seguridad Social,Jesús Sancho Rof,Hombre
+Primera,27/02/1981,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,27/02/1981,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,27/02/1981,Ministro de Economía y Comercio y vicepresidente de la Comisión Delegada para Asuntos Económicos,Juan Antonio García Diaz,Hombre
+Primera,27/02/1981,Ministro de Presidencia,Pío Cabanillas Gallas,Hombre
+Primera,27/02/1981,Ministro de Transportes y Comunicaciones,José Luis Álvarez Álvarez,Hombre
+Primera,27/02/1981,Ministro de Administración Territorial y vicepresidente de la Comisión Delegada para la Política Autonómica,Rodolfo Martín Villa,Hombre
+Primera,27/02/1981,Ministro de Cultura,Iñigo Cavero Lataillade,Hombre
+Primera,1/09/1981,Presidente del Gobierno,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,1/09/1981,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,1/09/1981,Ministro de Justicia,Pío Cabanillas Gallas,Hombre
+Primera,1/09/1981,Ministro de Defensa,Alberto Oliart Saussol,Hombre
+Primera,1/09/1981,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,1/09/1981,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,1/09/1981,Ministro de Obras Públicas y Urbanismo,Luis Ortiz González,Hombre
+Primera,1/09/1981,Ministro de Educación y de Universidades e Investigación,Juan Antonio Ortega y Díaz Ambrona,Hombre
+Primera,1/09/1981,Ministro de Trabajo y de Sanidad y Seguridad Social,Jesús Sancho Rof,Hombre
+Primera,1/09/1981,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,1/09/1981,Ministro de Agricultura,Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,1/09/1981,Ministro de Economía y Comercio y vicepresidente de la Comisión Delegada para Asuntos Económicos,Juan Antonio García Diaz,Hombre
+Primera,1/09/1981,Ministro de Presidencia,Matías Rodríguez Inciarte,Hombre
+Primera,1/09/1981,Ministro de Transportes y Comunicaciones,José Luis Álvarez Álvarez,Hombre
+Primera,1/09/1981,Ministro de Administración Territorial y vicepresidente de la Comisión Delegada para la Política Autonómica,Rodolfo Martín Villa,Hombre
+Primera,1/09/1981,Ministro de Cultura,Iñigo Cavero Lataillade,Hombre
+Primera,2/12/1981,Presidente del Gobierno,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,2/12/1981,Vicepresidente primero del Gobierno,Rodolfo Martín Villa,Hombre
+Primera,2/12/1981,Vicepresidente segundo del Gobierno y ministro de Economía y Comercio,Juan Antonio García Diaz,Hombre
+Primera,2/12/1981,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,2/12/1981,Ministro de Justicia,Pío Cabanillas Gallas,Hombre
+Primera,2/12/1981,Ministro de Defensa,Alberto Oliart Saussol,Hombre
+Primera,2/12/1981,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,2/12/1981,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,2/12/1981,Ministro de Obras Públicas y Urbanismo,Luis Ortiz González,Hombre
+Primera,2/12/1981,Ministro de Educación y Ciencia,Federico Mayor Zaragoza,Hombre
+Primera,2/12/1981,Ministro de Trabajo y Seguridad Social,Santiago Rodríguez Miranda,Hombre
+Primera,2/12/1981,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,2/12/1981,"Ministro de Agricultura, Pesca y Alimentación",José Luis Álvarez Álvare z,Hombre
+Primera,2/12/1981,Ministro de Presidencia,Matías Rodríguez Inciarte,Hombre
+Primera,2/12/1981,"Ministro de Transportes, Turismo y Comunicaciones",Luis Gámir Casares,Hombre
+Primera,2/12/1981,Ministro de Administración Territorial,Rafael Arias-Salgado y Montalvo,Hombre
+Primera,2/12/1981,Ministra de Cultura,Soledad Becerril Bustamante,Mujer
+Primera,2/12/1981,Ministro de Sanidad y Consumo,Manuel Núñez Pérez,Hombre
+Primera,2/12/1981,"Ministro adjunto al presidente, sin cartera",Jaime Lamo de Espinosa y Michels de Champourcín,Hombre
+Primera,30/07/1982,Presidente del Gobierno,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,30/07/1982,Vicepresidente del Gobierno para Asuntos Económicos y ministro de Economía y Comercio,Juan Antonio García Díaz,Hombre
+Primera,30/07/1982,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,30/07/1982,Ministro de Justicia,Pío Cabanillas Gallas,Hombre
+Primera,30/07/1982,Ministro de Defensa,Alberto Oliart Saussol,Hombre
+Primera,30/07/1982,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,30/07/1982,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,30/07/1982,Ministro de Obras Públicas y Urbanismo,Luis Ortiz González,Hombre
+Primera,30/07/1982,Ministro de Educación y Ciencia,Federico Mayor Zaragoza,Hombre
+Primera,30/07/1982,Ministro de Trabajo y Seguridad Social,Santiago Rodríguez Miranda,Hombre
+Primera,30/07/1982,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,30/07/1982,"Ministro de Agricultura, Pesca y Alimentación",José Luis Álvarez Álvarez,Hombre
+Primera,30/07/1982,Ministro de Presidencia,Matías Rodríguez Inciarte,Hombre
+Primera,30/07/1982,"Ministro de Transportes, Turismo y Comunicaciones",Luis Gámir Casares,Hombre
+Primera,30/07/1982,Ministra de Cultura,Soledad Becerril Bustamante,Mujer
+Primera,30/07/1982,Ministro de Administración Territorial,Luis Manuel Cosculluela Montaner,Hombre
+Primera,30/07/1982,Ministro de Sanidad y Consumo,Manuel Núñez Pérez,Hombre
+Primera,13/09/1982,Presidente del Gobierno,Leopoldo Calvo-Sotelo y Bustelo,Hombre
+Primera,13/09/1982,Vicepresidente del Gobierno para asuntos Económicos y ministro de Economía y Comercio,Juan Antonio García Diaz,Hombre
+Primera,13/09/1982,Ministro de Asuntos Exteriores,José Pedro Pérez-Llorca y Rodrigo,Hombre
+Primera,13/09/1982,Ministro de Justicia,Pío Cabanillas Gallas,Hombre
+Primera,13/09/1982,Ministro de Defensa,Alberto Oliart Saussol,Hombre
+Primera,13/09/1982,Ministro de Hacienda,Jaime García Añoveros,Hombre
+Primera,13/09/1982,Ministro de Interior,Juan José Rosón Pérez,Hombre
+Primera,13/09/1982,Ministro de Obras Públicas y Urbanismo,Luis Ortiz González,Hombre
+Primera,13/09/1982,Ministro de Educación y Ciencia,Federico Mayor Zaragoza,Hombre
+Primera,13/09/1982,Ministro de Trabajo y Seguridad Social,Santiago Rodríguez Miranda,Hombre
+Primera,13/09/1982,Ministro de Industria y Energía,Ignacio Bayón Mariné,Hombre
+Primera,13/09/1982,"Ministro de Agricultura, Pesca y Alimentación",José Luis García Ferrero,Hombre
+Primera,13/09/1982,Ministro de Presidencia,Matías Rodríguez Inciarte,Hombre
+Primera,13/09/1982,"Ministro de Transportes, Turismo y Comunicaciones",Luis Gámir Casares,Hombre
+Primera,13/09/1982,Ministra de Cultura,Soledad Becerril Bustamante,Mujer
+Primera,13/09/1982,Ministro de Administración Territorial,Luis Manuel Cosculluela Montaner,Hombre
+Primera,13/09/1982,Ministro de Sanidad y Consumo,Manuel Núñez Pérez,Hombre
+Segunda,3/12/1982,Presidente del Gobierno,Felipe González Márquez,Hombre
+Segunda,3/12/1982,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Segunda,3/12/1982,Ministro de Asuntos Exteriores,Fernando Morán López,Hombre
+Segunda,3/12/1982,Ministro de Justicia,Fernando Ledesma Bartret,Hombre
+Segunda,3/12/1982,Ministro de Defensa,Narcís Serra i Serra,Hombre
+Segunda,3/12/1982,"Ministro de Economía, Comercio y Hacienda",Miguel Boyer Salvador,Hombre
+Segunda,3/12/1982,Ministro del Interior,José Barrionuevo Peña,Hombre
+Segunda,3/12/1982,Ministro de Obras Públicas y Urbanismo,Julián Campo Sainz de Rozas,Hombre
+Segunda,3/12/1982,Ministro de Educación y Ciencia,José María Maravall Herrero,Hombre
+Segunda,3/12/1982,Ministro de Trabajo y Seguridad Social,Joaquín Almunia Amann,Hombre
+Segunda,3/12/1982,Ministro de Industria y Energía,Carlos Solchaga Catalán,Hombre
+Segunda,3/12/1982,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Segunda,3/12/1982,Ministro de la Presidencia,Javier Moscoso del Prado y Muñoz,Hombre
+Segunda,3/12/1982,"Ministro de Transportes, Turismo y Comunicaciones",Enrique Barón Crespo,Hombre
+Segunda,3/12/1982,Ministro de Cultura,Javier Solana Madariaga,Hombre
+Segunda,3/12/1982,Ministro de Administración Territorial,Tomás de la Quadra Salcedo Fernández del Castillo,Hombre
+Segunda,3/12/1982,Ministro de Sanidad y Consumo,Ernesto Lluch Martín,Hombre
+Segunda,5/07/1985,Presidente del Gobierno,Felipe González Márquez,Hombre
+Segunda,5/07/1985,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Segunda,5/07/1985,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Segunda,5/07/1985,Ministro de Justicia,Fernando Ledesma Bartret,Hombre
+Segunda,5/07/1985,Ministro de Defensa,Narcís Serra i Serra,Hombre
+Segunda,5/07/1985,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Segunda,5/07/1985,Ministro del Interior,José Barrionuevo Peña,Hombre
+Segunda,5/07/1985,Ministro de Obras Públicas y Urbanismo,Javier Luis Sáenz de Cosculluela,Hombre
+Segunda,5/07/1985,Ministro de Educación y Ciencia,José María Maravall Herrero,Hombre
+Segunda,5/07/1985,Ministro de Trabajo y Seguridad Social,Joaquín Almunia Amann,Hombre
+Segunda,5/07/1985,Ministro de Industria y Energía,Juan Majó Cruzate,Hombre
+Segunda,5/07/1985,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Segunda,5/07/1985,Ministro de la Presidencia,Javier Moscoso del Prado y Muñoz,Hombre
+Segunda,5/07/1985,"Ministro de Transportes, Turismo y Comunicaciones",Abel Ramón Caballero Álvarez,Hombre
+Segunda,5/07/1985,Ministro de Cultura y portavoz del Gobierno,Javier Solana Madariaga,Hombre
+Segunda,5/07/1985,Ministro de Administración Territorial,Félix Pons Irazazábal,Hombre
+Segunda,5/07/1985,Ministro de Sanidad y Consumo,Ernesto Lluch Martín,Hombre
+Tercera,26/07/1986,Presidente del Gobierno,Felipe González Márquez,Hombre
+Tercera,26/07/1986,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Tercera,26/07/1986,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Tercera,26/07/1986,Ministro de Justicia,Fernando Ledesma Bartret,Hombre
+Tercera,26/07/1986,Ministro de Defensa,Narcís Serra Serra,Hombre
+Tercera,26/07/1986,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Tercera,26/07/1986,Ministro del Interior,José Barrionuevo Peña,Hombre
+Tercera,26/07/1986,Ministro de Obras Públicas y Urbanismo,Javier Sáenz Cosculluela,Hombre
+Tercera,26/07/1986,Ministro de Educación y Ciencia,José María Maravall Herrero,Hombre
+Tercera,26/07/1986,Ministro de Trabajo y Seguridad Social,Manuel Chaves González,Hombre
+Tercera,26/07/1986,Ministro de Industria y Energía,Luis Carlos Croissier Batista,Hombre
+Tercera,26/07/1986,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Tercera,26/07/1986,Ministro para las Administraciones Públicas,Joaquín Almunia Amann,Hombre
+Tercera,26/07/1986,"Ministro de Transportes, Turismo y Comunicaciones",Abel Ramón Caballero Álvarez,Hombre
+Tercera,26/07/1986,Ministro de Cultura,Javier Solana Madariaga,Hombre
+Tercera,26/07/1986,Ministro de Sanidad y Consumo,Julián García Vargas,Hombre
+Tercera,26/07/1986,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Tercera,12/07/1988,Presidente del Gobierno,Felipe González Márquez,Hombre
+Tercera,12/07/1988,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Tercera,12/07/1988,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Tercera,12/07/1988,Ministro de Justicia,Enrique Múgica Herzog,Hombre
+Tercera,12/07/1988,Ministro de Defensa,Narcís Serra Serra,Hombre
+Tercera,12/07/1988,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Tercera,12/07/1988,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Tercera,12/07/1988,Ministro de Obras Públicas y Urbanismo,Javier Sáenz Cosculluela,Hombre
+Tercera,12/07/1988,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Tercera,12/07/1988,Ministro de Trabajo y Seguridad Social,Manuel Chaves González,Hombre
+Tercera,12/07/1988,Ministro de Industria y Energía,José Claudio Aranzadi Martínez,Hombre
+Tercera,12/07/1988,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Tercera,12/07/1988,Ministro para las Administraciones Públicas,Joaquín Almunia Amann,Hombre
+Tercera,12/07/1988,"Ministro de Transportes, Turismo y Comunicaciones",José Barrionuevo Peña,Hombre
+Tercera,12/07/1988,Ministro de Cultura,Jorge Semprún y Maura,Hombre
+Tercera,12/07/1988,Ministro de Sanidad y Consumo,Julián García Vargas,Hombre
+Tercera,12/07/1988,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Tercera,12/07/1988,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Tercera,12/07/1988,Ministra Portavoz del Gobierno,Rosa Conde Gutiérrez del Amo,Mujer
+Cuarta,7/12/1989,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,7/12/1989,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Cuarta,7/12/1989,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Cuarta,7/12/1989,Ministro de Justicia,Enrique Múgica Herzog,Hombre
+Cuarta,7/12/1989,Ministro de Defensa,Narcís Serra i Serra,Hombre
+Cuarta,7/12/1989,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,7/12/1989,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,7/12/1989,Ministro de Obras Públicas y Urbanismo,Javier Luis Sáenz Cosculluela,Hombre
+Cuarta,7/12/1989,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Cuarta,7/12/1989,Ministro de Trabajo y Seguridad Social,Manuel Chaves González,Hombre
+Cuarta,7/12/1989,Ministro de Industria y Energía,José Claudio Aranzadi Martínez,Hombre
+Cuarta,7/12/1989,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Cuarta,7/12/1989,Ministro para las Administraciones Públicas,Joaquín Almunia Amann,Hombre
+Cuarta,7/12/1989,"Ministro de Transportes, Turismo y Comunicaciones",José Barrionuevo Peña,Hombre
+Cuarta,7/12/1989,Ministro de Cultura,Jorge Semprún y Maura,Hombre
+Cuarta,7/12/1989,Ministro de Sanidad y Consumo,Julián García Vargas,Hombre
+Cuarta,7/12/1989,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,7/12/1989,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,7/12/1989,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Cuarta,2/05/1990,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,2/05/1990,Vicepresidente del Gobierno,Alfonso Guerra González,Hombre
+Cuarta,2/05/1990,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Cuarta,2/05/1990,Ministro de Justicia,Enrique Múgica Herzog,Hombre
+Cuarta,2/05/1990,Ministro de Defensa,Narcís Serra i Serra,Hombre
+Cuarta,2/05/1990,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,2/05/1990,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,2/05/1990,Ministro de Obras Públicas y Urbanismo,Javier Luis Sáenz Cosculluela,Hombre
+Cuarta,2/05/1990,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Cuarta,2/05/1990,Ministro de Trabajo y Seguridad Social,Luis Martínez Noval,Hombre
+Cuarta,2/05/1990,Ministro de Industria y Energía,José Claudio Aranzadi Martínez,Hombre
+Cuarta,2/05/1990,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Cuarta,2/05/1990,Ministro para las Administraciones Públicas,Joaquín Almunia Amann,Hombre
+Cuarta,2/05/1990,"Ministro de Transportes, Turismo y Comunicaciones",José Barrionuevo Peña,Hombre
+Cuarta,2/05/1990,Ministro de Cultura,Jorge Semprún y Maura,Hombre
+Cuarta,2/05/1990,Ministro de Sanidad y Consumo,Julián García Vargas,Hombre
+Cuarta,2/05/1990,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,2/05/1990,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,2/05/1990,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Cuarta,15/01/1991,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,15/01/1991,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Cuarta,15/01/1991,Ministro de Justicia,Enrique Múgica Herzog,Hombre
+Cuarta,15/01/1991,Ministro de Defensa,Narcís Serra i Serra,Hombre
+Cuarta,15/01/1991,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,15/01/1991,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,15/01/1991,Ministro de Obras Públicas y Urbanismo,Javier Luis Sáenz Cosculluela,Hombre
+Cuarta,15/01/1991,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Cuarta,15/01/1991,Ministro de Trabajo y Seguridad Social,Luis Martínez Noval,Hombre
+Cuarta,15/01/1991,Ministro de Industria y Energía,José Claudio Aranzadi Martínez,Hombre
+Cuarta,15/01/1991,"Ministro de Agricultura, Pesca y Alimentación",Carlos Romero Herrera,Hombre
+Cuarta,15/01/1991,Ministro para las Administraciones Públicas,Joaquín Almunia Amann,Hombre
+Cuarta,15/01/1991,"Ministro de Transportes, Turismo y Comunicaciones",José Barrionuevo Peña,Hombre
+Cuarta,15/01/1991,Ministro de Cultura,Jorge Semprún y Maura,Hombre
+Cuarta,15/01/1991,Ministro de Sanidad y Consumo,Julián García Vargas,Hombre
+Cuarta,15/01/1991,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,15/01/1991,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,15/01/1991,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Cuarta,13/03/1991,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,13/03/1991,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Cuarta,13/03/1991,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Cuarta,13/03/1991,Ministro de Justicia,Tomás de la Quadra-Salcedo y Fernández del Castillo,Hombre
+Cuarta,13/03/1991,Ministro de Defensa,Julián García Vargas,Hombre
+Cuarta,13/03/1991,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,13/03/1991,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,13/03/1991,Ministro de Obras Públicas y Transporte,Josep Borrell Fontelles,Hombre
+Cuarta,13/03/1991,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Cuarta,13/03/1991,Ministro de Trabajo y Seguridad Social,Luis Martínez Noval,Hombre
+Cuarta,13/03/1991,"Ministro de Industria, Comercio y Turismo",José Claudio Aranzadi Martínez,Hombre
+Cuarta,13/03/1991,"Ministro de Agricultura, Pesca y Alimentación",Pedro Solbes Mira,Hombre
+Cuarta,13/03/1991,Ministro para las Administraciones Públicas,Juan Manuel Eguiagaray Ucelay,Hombre
+Cuarta,13/03/1991,Ministro de Cultura,Jordi Solé Tura,Hombre
+Cuarta,13/03/1991,Ministro de Sanidad y Consumo,Julián García Valverde,Hombre
+Cuarta,13/03/1991,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,13/03/1991,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,13/03/1991,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Cuarta,15/01/1992,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,15/01/1992,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Cuarta,15/01/1992,Ministro de Asuntos Exteriores,Francisco Fernández Ordóñez,Hombre
+Cuarta,15/01/1992,Ministro de Justicia,Tomás de la Quadra-Salcedo y Fernández del Castillo,Hombre
+Cuarta,15/01/1992,Ministro de Defensa,Julián García Vargas,Hombre
+Cuarta,15/01/1992,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,15/01/1992,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,15/01/1992,Ministro de Obras Públicas y Transporte,Josep Borrell Fontelles,Hombre
+Cuarta,15/01/1992,Ministro de Educación y Ciencia,Javier Solana Madariaga,Hombre
+Cuarta,15/01/1992,Ministro de Trabajo y Seguridad Social,Luis Martínez Noval,Hombre
+Cuarta,15/01/1992,"Ministro de Industria, Comercio y Turismo",José Claudio Aranzadi Martínez,Hombre
+Cuarta,15/01/1992,"Ministro de Agricultura, Pesca y Alimentación",Pedro Solbes Mira,Hombre
+Cuarta,15/01/1992,Ministro para las Administraciones Públicas,Juan Manuel Eguiagaray Ucelay,Hombre
+Cuarta,15/01/1992,Ministro de Cultura,Jordi Solé Tura,Hombre
+Cuarta,15/01/1992,Ministro de Sanidad y Consumo,José Antonio Griñán Martínez,Hombre
+Cuarta,15/01/1992,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,15/01/1992,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,15/01/1992,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Cuarta,24/06/1992,Presidente del Gobierno,Felipe González Márquez,Hombre
+Cuarta,24/06/1992,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Cuarta,24/06/1992,Ministro de Asuntos Exteriores,Javier Solana Madariaga,Hombre
+Cuarta,24/06/1992,Ministro de Justicia,Tomás de la Quadra-Salcedo y Fernández del Castillo,Hombre
+Cuarta,24/06/1992,Ministro de Defensa,Julián García Vargas,Hombre
+Cuarta,24/06/1992,Ministro de Economía y Hacienda,Carlos Solchaga Catalán,Hombre
+Cuarta,24/06/1992,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Cuarta,24/06/1992,Ministro de Obras Públicas y Transporte,Josep Borrell Fontelles,Hombre
+Cuarta,24/06/1992,Ministro de Educación y Ciencia,Alfredo Pérez Rubalcaba,Hombre
+Cuarta,24/06/1992,Ministro de Trabajo y Seguridad Social,Luis Martínez Noval,Hombre
+Cuarta,24/06/1992,"Ministro de Industria, Comercio y Turismo",José Claudio Aranzadi Martínez,Hombre
+Cuarta,24/06/1992,"Ministro de Agricultura, Pesca y Alimentación",Pedro Solbes Mira,Hombre
+Cuarta,24/06/1992,Ministro para las Administraciones Públicas,Juan Manuel Eguiagaray Ucelay,Hombre
+Cuarta,24/06/1992,Ministro de Cultura,Jordi Solé Tura,Hombre
+Cuarta,24/06/1992,Ministro de Sanidad y Consumo,José Antonio Griñán Martínez,Hombre
+Cuarta,24/06/1992,Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,Virgilio Zapatero Gómez,Hombre
+Cuarta,24/06/1992,Ministra de Asuntos Sociales,Matilde Fernández Sanz,Mujer
+Cuarta,24/06/1992,Ministra portavoz del Gobierno,Rosa Conde Gutiérrez del Álamo,Mujer
+Quinta,14/07/1993,Presidente del Gobierno,Felipe González Márquez,Hombre
+Quinta,14/07/1993,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Quinta,14/07/1993,Ministro de Asuntos Exteriores,Javier Solana Madariaga,Hombre
+Quinta,14/07/1993,Ministro de Justicia,Juan Alberto Belloch Julbe,Hombre
+Quinta,14/07/1993,Ministro de Defensa,Julián García Vargas,Hombre
+Quinta,14/07/1993,Ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Quinta,14/07/1993,Ministro del Interior,José Luis Corcuera Cuesta,Hombre
+Quinta,14/07/1993,"Ministro de Obras Públicas, Transportes y Medio Ambiente",Josep Borrell Fontelles,Hombre
+Quinta,14/07/1993,Ministro de Educación y Ciencia,Gustavo Suárez Pertierra,Hombre
+Quinta,14/07/1993,Ministro de Trabajo y Seguridad Social,José Antonio Griñán Martínez,Hombre
+Quinta,14/07/1993,Ministro de Industria y Energía,Juan Manuel Eguiagaray Ucelay,Hombre
+Quinta,14/07/1993,"Ministro de Agricultura, Pesca y Alimentación",Vicente Albero Silla,Hombre
+Quinta,14/07/1993,Ministro de la Presidencia,Alfredo Pérez Rubalcaba,Hombre
+Quinta,14/07/1993,Ministro para las Administraciones Públicas,Jerónimo Saavedra Acevedo,Hombre
+Quinta,14/07/1993,Ministra de Cultura,Carmen Alborch Bataller,Mujer
+Quinta,14/07/1993,Ministra de Sanidad y Consumo,María Ángeles Amador Millán,Mujer
+Quinta,14/07/1993,Ministra de Asuntos Sociales,Cristina Alberdi Alonso,Mujer
+Quinta,14/07/1993,Ministro de Comercio y Turismo,Javier Gómez-Navarro Navarrete,Hombre
+Quinta,25/11/1993,Presidente del Gobierno,Felipe González Márquez,Hombre
+Quinta,25/11/1993,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Quinta,25/11/1993,Ministro de Asuntos Exteriores,Javier Solana Madariaga,Hombre
+Quinta,25/11/1993,Ministro de Justicia,Juan Alberto Belloch Julbe,Hombre
+Quinta,25/11/1993,Ministro de Defensa,Julián García Vargas,Hombre
+Quinta,25/11/1993,Ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Quinta,25/11/1993,Ministro del Interior,Antoni Asunción Hernández,Hombre
+Quinta,25/11/1993,"Ministro de Obras Públicas, Transportes y Medio Ambiente",Josep Borrell Fontelles,Hombre
+Quinta,25/11/1993,Ministro de Educación y Ciencia,Gustavo Suárez Pertierra,Hombre
+Quinta,25/11/1993,Ministro de Trabajo y Seguridad Social,José Antonio Griñán Martínez,Hombre
+Quinta,25/11/1993,Ministro de Industria y Energía,Juan Manuel Eguiagaray Ucelay,Hombre
+Quinta,25/11/1993,"Ministro de Agricultura, Pesca y Alimentación",Vicente Albero Silla,Hombre
+Quinta,25/11/1993,Ministro de la Presidencia,Alfredo Pérez Rubalcaba,Hombre
+Quinta,25/11/1993,Ministro para las Administraciones Públicas,Jerónimo Saavedra Acevedo,Hombre
+Quinta,25/11/1993,Ministra de Cultura,Carmen Alborch Bataller,Mujer
+Quinta,25/11/1993,Ministra de Sanidad y Consumo,María Ángeles Amador Millán,Mujer
+Quinta,25/11/1993,Ministra de Asuntos Sociales,Cristina Alberdi Alonso,Mujer
+Quinta,25/11/1993,Ministro de Comercio y Turismo,Javier Gómez-Navarro Navarrete,Hombre
+Quinta,6/05/1994,Presidente del Gobierno,Felipe González Márquez,Hombre
+Quinta,6/05/1994,Vicepresidente del Gobierno,Narcís Serra i Serra,Hombre
+Quinta,6/05/1994,Ministro de Asuntos Exteriores,Javier Solana Madariaga,Hombre
+Quinta,6/05/1994,Ministro de Justicia e Interior,Juan Alberto Belloch Julbe,Hombre
+Quinta,6/05/1994,Ministro de Defensa,Julián García Vargas,Hombre
+Quinta,6/05/1994,Ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Quinta,6/05/1994,"Ministro de Obras Públicas, Transportes y Medio Ambiente",Josep Borrell Fontelles,Hombre
+Quinta,6/05/1994,Ministro de Educación y Ciencia,Gustavo Suárez Pertierra,Hombre
+Quinta,6/05/1994,Ministro de Trabajo y Seguridad Social,José Antonio Griñán Martínez,Hombre
+Quinta,6/05/1994,Ministro de Industria y Energía,Juan Manuel Eguiagaray Ucelay,Hombre
+Quinta,6/05/1994,"Ministro de Agricultura, Pesca y Alimentación",Luis María Atienza Serna,Hombre
+Quinta,6/05/1994,Ministro de la Presidencia,Alfredo Pérez Rubalcaba,Hombre
+Quinta,6/05/1994,Ministro para las Administraciones Públicas,Jerónimo Saavedra Acevedo,Hombre
+Quinta,6/05/1994,Ministra de Cultura,Carmen Alborch Bataller,Mujer
+Quinta,6/05/1994,Ministra de Sanidad y Consumo,María Ángeles Amador Millán,Mujer
+Quinta,6/05/1994,Ministra de Asuntos Sociales,Cristina Alberdi Alonso,Mujer
+Quinta,6/05/1994,Ministro de Comercio y Turismo,Javier Gómez-Navarro Navarrete,Hombre
+Quinta,3/07/1995,Presidente del Gobierno,Felipe González Márquez,Hombre
+Quinta,3/07/1995,Ministro de Asuntos Exteriores,Javier Solana Madariaga,Hombre
+Quinta,3/07/1995,Ministro de Justicia e Interior,Juan Alberto Belloch Julbe,Hombre
+Quinta,3/07/1995,Ministro de Defensa,Gustavo Suárez Pertierra,Hombre
+Quinta,3/07/1995,Ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Quinta,3/07/1995,"Ministro de Obras Públicas, Transportes y Medio Ambiente",Josep Borrell Fontelles,Hombre
+Quinta,3/07/1995,Ministro de Educación y Ciencia,Jerónimo Saavedra Acevedo,Hombre
+Quinta,3/07/1995,Ministro de Trabajo y Seguridad Social,José Antonio Griñán Martínez,Hombre
+Quinta,3/07/1995,Ministro de Industria y Energía,Juan Manuel Eguiagaray Ucelay,Hombre
+Quinta,3/07/1995,"Ministro de Agricultura, Pesca y Alimentación",Luis María Atienza Serna,Hombre
+Quinta,3/07/1995,Ministro de la Presidencia,Alfredo Pérez Rubalcaba,Hombre
+Quinta,3/07/1995,Ministro para las Administraciones Públicas,Juan Lerma Blasco,Hombre
+Quinta,3/07/1995,Ministra de Cultura,Carmen Alborch Bataller,Mujer
+Quinta,3/07/1995,Ministra de Sanidad y Consumo,María Ángeles Amador Millán,Mujer
+Quinta,3/07/1995,Ministra de Asuntos Sociales,Cristina Alberdi Alonso,Mujer
+Quinta,3/07/1995,Ministro de Comercio y Turismo,Javier Gómez-Navarro Navarrete,Hombre
+Quinta,19/12/1995,Presidente del Gobierno,Felipe González Márquez,Hombre
+Quinta,19/12/1995,Ministro de Asuntos Exteriores,Carlos Westendorp y Cabeza,Hombre
+Quinta,19/12/1995,Ministro de Justicia e Interior,Juan Alberto Belloch Julbe,Hombre
+Quinta,19/12/1995,Ministro de Defensa,Gustavo Suárez Pertierra,Hombre
+Quinta,19/12/1995,Ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Quinta,19/12/1995,"Ministro de Obras Públicas, Transportes y Medio Ambiente",Josep Borrell Fontelles,Hombre
+Quinta,19/12/1995,Ministro de Educación y Ciencia,Jerónimo Saavedra Acevedo,Hombre
+Quinta,19/12/1995,Ministro de Trabajo y Seguridad Social,José Antonio Griñán Martínez,Hombre
+Quinta,19/12/1995,Ministro de Industria y Energía,Juan Manuel Eguiagaray Ucelay,Hombre
+Quinta,19/12/1995,"Ministro de Agricultura, Pesca y Alimentación",Luis María Atienza Serna,Hombre
+Quinta,19/12/1995,Ministro de la Presidencia,Alfredo Pérez Rubalcaba,Hombre
+Quinta,19/12/1995,Ministro para las Administraciones Públicas,Juan Lerma Blasco,Hombre
+Quinta,19/12/1995,Ministra de Cultura,Carmen Alborch Bataller,Mujer
+Quinta,19/12/1995,Ministra de Sanidad y Consumo,María Ángeles Amador Millán,Mujer
+Quinta,19/12/1995,Ministra de Asuntos Sociales,Cristina Alberdi Alonso,Mujer
+Quinta,19/12/1995,Ministro de Comercio y Turismo,Javier Gómez-Navarro Navarrete,Hombre
+Sexta,6/05/1996,Presidente del Gobierno,José María Aznar López,Hombre
+Sexta,6/05/1996,Vicepresidente primero del Gobierno y ministro de la Presidencia,Francisco Álvarez-Cascos Fernández,Hombre
+Sexta,6/05/1996,Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda,Rodrigo de Rato y Figaredo,Hombre
+Sexta,6/05/1996,Ministro de Asuntos Exteriores,Abel Matutes Juan,Hombre
+Sexta,6/05/1996,Ministra de Justicia,Margarita Mariscal de Gante y Mirón,Mujer
+Sexta,6/05/1996,Ministro de Defensa,Eduardo Serra Rexach,Hombre
+Sexta,6/05/1996,Ministro de Interior,Jaime Mayor Oreja,Hombre
+Sexta,6/05/1996,Ministro de Fomento,Rafael Arias-Salgado y Montalvo,Hombre
+Sexta,6/05/1996,Ministra de Educación y Cultura,Esperanza Aguirre y Gil de Biedma,Mujer
+Sexta,6/05/1996,Ministro de Trabajo y Asuntos Sociales,Javier Arenas Bocanegra,Hombre
+Sexta,6/05/1996,Ministro de Industria y Energía,Josep Piqué i Camps,Hombre
+Sexta,6/05/1996,"Ministra de Agricultura, Pesca y Alimentación",Loyola de Palacio del Valle-Lersundi,Mujer
+Sexta,6/05/1996,Ministro de Administraciones Públicas,Mariano Rajoy Brey,Hombre
+Sexta,6/05/1996,Ministro de Sanidad y Consumo,José Manuel Romay Beccaría,Hombre
+Sexta,6/05/1996,Ministra de Medio Ambiente,Isabel Tocino Biscarolasaga,Mujer
+Sexta,19/01/1999,Presidente del Gobierno,José María Aznar López,Hombre
+Sexta,19/01/1999,Vicepresidente primero del Gobierno y ministro de la Presidencia,Francisco Álvarez-Cascos Fernández,Hombre
+Sexta,19/01/1999,Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda,Rodrigo de Rato y Figaredo,Hombre
+Sexta,19/01/1999,Ministro de Asuntos Exteriores,Abel Matutes Juan,Hombre
+Sexta,19/01/1999,Ministra de Justicia,Margarita Mariscal de Gante y Mirón,Mujer
+Sexta,19/01/1999,Ministro de Defensa,Eduardo Serra Rexach,Hombre
+Sexta,19/01/1999,Ministro de Interior,Jaime Mayor Oreja,Hombre
+Sexta,19/01/1999,Ministro de Fomento,Rafael Arias-Salgado y Montalvo,Hombre
+Sexta,19/01/1999,Ministro de Educación y Cultura,Mariano Rajoy Brey,Hombre
+Sexta,19/01/1999,Ministro de Trabajo y Asuntos Sociales,Manuel Pimentel Siles,Hombre
+Sexta,19/01/1999,Ministro de Industria y Energía,Josep Piqué i Camps,Hombre
+Sexta,19/01/1999,"Ministro de Agricultura, Pesca y Alimentación",Loyola de Palacio del Valle-Lersundi,Mujer
+Sexta,19/01/1999,Ministro de Administraciones Públicas,Ángel Acebes Paniagua,Hombre
+Sexta,19/01/1999,Ministro de Sanidad y Consumo,José Manuel Romay Beccaría,Hombre
+Sexta,19/01/1999,Ministra de Medio Ambiente,Isabel Tocino Biscarolasaga,Mujer
+Sexta,30/04/1999,Presidente del Gobierno,José María Aznar López,Hombre
+Sexta,30/04/1999,Vicepresidente primero del Gobierno y ministro de la Presidencia,Francisco Álvarez-Cascos Fernández,Hombre
+Sexta,30/04/1999,Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda,Rodrigo de Rato y Figaredo,Hombre
+Sexta,30/04/1999,Ministro de Asuntos Exteriores,Abel Matutes Juan,Hombre
+Sexta,30/04/1999,Ministra de Justicia,Margarita Mariscal de Gante y Mirón,Mujer
+Sexta,30/04/1999,Ministro de Defensa,Eduardo Serra Rexach,Hombre
+Sexta,30/04/1999,Ministro de Interior,Jaime Mayor Oreja,Hombre
+Sexta,30/04/1999,Ministro de Fomento,Rafael Arias-Salgado y Montalvo,Hombre
+Sexta,30/04/1999,Ministro de Educación y Cultura,Mariano Rajoy Brey,Hombre
+Sexta,30/04/1999,Ministro de Trabajo y Asuntos Sociales,Manuel Pimentel Siles,Hombre
+Sexta,30/04/1999,Ministro de Industria y Energia,Josep Piqué i Camps,Hombre
+Sexta,30/04/1999,"Ministro de Agricultura, Pesca y Alimentación",Jesús María Posada Moreno,Hombre
+Sexta,30/04/1999,Ministro de Administraciones Públicas,Ángel Acebes Paniagua,Hombre
+Sexta,30/04/1999,Ministro de Sanidad y Consumo,José Manuel Romay Beccaría,Hombre
+Sexta,30/04/1999,Ministra de Medio Ambiente,Isabel Tocino Biscarolasaga,Mujer
+Sexta,21/02/2000,Presidente del Gobierno,José María Aznar López,Hombre
+Sexta,21/02/2000,Vicepresidente primero del Gobierno y ministro de la Presidencia,Francisco Álvarez-Cascos Fernández,Hombre
+Sexta,21/02/2000,Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda,Rodrigo de Rato y Figaredo,Hombre
+Sexta,21/02/2000,Ministro de Asuntos Exteriores,Abel Matutes Juan,Hombre
+Sexta,21/02/2000,Ministra de Justicia,Margarita Mariscal de Gante y Mirón,Mujer
+Sexta,21/02/2000,Ministro de Defensa,Eduardo Serra Rexach,Hombre
+Sexta,21/02/2000,Ministro de Interior,Jaime Mayor Oreja,Hombre
+Sexta,21/02/2000,Ministro de Fomento,Rafael Arias-Salgado y Montalvo,Hombre
+Sexta,21/02/2000,Ministro de Educación y Cultura,Mariano Rajoy Brey,Hombre
+Sexta,21/02/2000,Ministro de Trabajo y Asuntos Sociales,Juan Carlos Aparicio Pérez,Hombre
+Sexta,21/02/2000,Ministro de Industria y Energía,Josep Piqué i Camps,Hombre
+Sexta,21/02/2000,"Ministro de Agricultura, Pesca y Alimentación",Jesús María Posada Moreno,Hombre
+Sexta,21/02/2000,Ministro de Administraciones Públicas,Ángel Acebes Paniagua,Hombre
+Sexta,21/02/2000,Ministro de Sanidad y Consumo,José Manuel Romay Beccaría,Hombre
+Sexta,21/02/2000,Ministra de Medio Ambiente,Isabel Tocino Biscarolasaga,Mujer
+Septima,28/04/2000,Presidente del Gobierno,José María Aznar López,Hombre
+Septima,28/04/2000,Vicepresidente primero y ministro de la Presidencia,Mariano Rajoy Brey,Hombre
+Septima,28/04/2000,Vicepresidente segundo para Asuntos Económicos y ministro de Economía,Rodrigo de Rato y Figaredo,Hombre
+Septima,28/04/2000,Ministro de Asuntos Exteriores,Josep Piqué i Camps,Hombre
+Septima,28/04/2000,Ministro de Justicia,Ángel Acebes Paniagua,Hombre
+Septima,28/04/2000,Ministro de Defensa,Federico Trillo-Figueroa y Martínez-Conde,Hombre
+Septima,28/04/2000,Ministro de Hacienda,Cristóbal Montoro Romero,Hombre
+Septima,28/04/2000,Ministro del Interior,Jaime Mayor Oreja,Hombre
+Septima,28/04/2000,Ministro de Fomento,Francisco Álvarez-Cascos Fernández,Hombre
+Septima,28/04/2000,"Ministra de Educación, Cultura y Deporte",Pilar del Castillo Vera,Mujer
+Septima,28/04/2000,Ministro de Trabajo y Asuntos Sociales,Juan Carlos Aparicio Pérez,Hombre
+Septima,28/04/2000,"Ministro de Agricultura, Pesca y Alimentación",Miguel Arias Cañete,Hombre
+Septima,28/04/2000,Ministro de Administraciones Públicas,Jesús Posada Moreno,Hombre
+Septima,28/04/2000,Ministra de Sanidad y Consumo,Celia Villalobos Talero,Mujer
+Septima,28/04/2000,Ministro de Medio Ambiente,Jaime Matas i Palou,Hombre
+Septima,28/04/2000,Ministra de Ciencia y Tecnología,Anna María Birulés Bertrán,Mujer
+Septima,28/04/2000,"Ministro portavoz del Gobierno, sin cartera",Pío Cabanillas Alonso,Hombre
+Septima,28/02/2001,Presidente del Gobierno,José María Aznar López,Hombre
+Septima,28/02/2001,Vicepresidente primero y ministro de Interior,Mariano Rajoy Brey,Hombre
+Septima,28/02/2001,Vicepresidente segundo para Asuntos Económicos y ministro de Economía,Rodrigo de Rato y Figaredo,Hombre
+Septima,28/02/2001,Ministro de Asuntos Exteriores,Josep Piqué i Camps,Hombre
+Septima,28/02/2001,Ministro de Justicia,Ángel Acebes Paniagua,Hombre
+Septima,28/02/2001,Ministro de Defensa,Federico Trillo-Figueroa y Martínez-Conde,Hombre
+Septima,28/02/2001,Ministro de Hacienda,Cristóbal Montoro Romero,Hombre
+Septima,28/02/2001,Ministro de Fomento,Francisco Álvarez-Cascos Fernández,Hombre
+Septima,28/02/2001,"Ministra de Educación, Cultura y Deporte",Pilar del Castillo Vera,Mujer
+Septima,28/02/2001,Ministro de Trabajo y Asuntos Sociales,Juan Carlos Aparicio Pérez,Hombre
+Septima,28/02/2001,"Ministro de Agricultura, Pesca y Alimentación",Miguel Arias Cañete,Hombre
+Septima,28/02/2001,Ministro de Administraciones Públicas,Jesús Posada Moreno,Hombre
+Septima,28/02/2001,Ministra de Sanidad y Consumo,Celia Villalobos Talero,Mujer
+Septima,28/02/2001,Ministro de Medio Ambiente,Jaime Matas i Palou,Hombre
+Septima,28/02/2001,Ministro de la Presidencia,Juan José Lucas Jiménez,Hombre
+Septima,28/02/2001,Ministra de Ciencia y Tecnología,Anna María Birulés Bertrán,Mujer
+Septima,28/02/2001,"Ministro portavoz del Gobierno, sin cartera",Pío Cabanillas Alonso,Hombre
+Septima,10/07/2002,Presidente del Gobierno,José María Aznar López,Hombre
+Septima,10/07/2002,"Vicepresidente primero, ministro de la Presidencia y portavoz del Gobierno",Mariano Rajoy Brey,Hombre
+Septima,10/07/2002,Vicepresidente segundo para Asuntos Económicos y ministro de Economía,Rodrigo de Rato y Figaredo,Hombre
+Septima,10/07/2002,Ministra de Asuntos Exteriores,Ana Palacio Vallelersundi,Mujer
+Septima,10/07/2002,Ministro de Justicia,José María Michavila Núñez,Hombre
+Septima,10/07/2002,Ministro de Defensa,Federico Trillo-Figueroa y Martínez-Conde,Hombre
+Septima,10/07/2002,Ministro de Hacienda,Cristóbal Montoro Romero,Hombre
+Septima,10/07/2002,Ministro del Interior,Ángel Acebes Paniagua,Hombre
+Septima,10/07/2002,Ministro de Fomento,Francisco Álvarez-Cascos Fernández,Hombre
+Septima,10/07/2002,"Ministra de Educación, Cultura y Deporte",Pilar del Castillo Vera,Mujer
+Septima,10/07/2002,Ministro de Trabajo y Asuntos Sociales,Eduardo Zaplana Hernández-Soro,Hombre
+Septima,10/07/2002,"Ministro de Agricultura, Pesca y Alimentación",Miguel Arias Cañete,Hombre
+Septima,10/07/2002,Ministro de Administraciones Públicas,Javier Arenas Bocanegra,Hombre
+Septima,10/07/2002,Ministra de Sanidad y Consumo,Ana María Pastor Julián,Mujer
+Septima,10/07/2002,Ministro de Medio Ambiente,Jaime Matas i Palou,Hombre
+Septima,10/07/2002,Ministro de Ciencia y Tecnología,Josep Piqué i Camps,Hombre
+Septima,3/03/2003,Presidente del Gobierno,José María Aznar López,Hombre
+Septima,3/03/2003,"Vicepresidente primero, ministro de la Presidencia y portavoz del Gobierno",Mariano Rajoy Brey,Hombre
+Septima,3/03/2003,Vicepresidente segundo para Asuntos Económicos y ministro de Economía,Rodrigo de Rato y Figaredo,Hombre
+Septima,3/03/2003,Ministra de Asuntos Exteriores,Ana Palacio Vallelersundi,Mujer
+Septima,3/03/2003,Ministro de Justicia,José María Michavila Núñez,Hombre
+Septima,3/03/2003,Ministro de Defensa,Federico Trillo-Figueroa y Martínez-Conde,Hombre
+Septima,3/03/2003,Ministro de Hacienda,Cristóbal Montoro Romero,Hombre
+Septima,3/03/2003,Ministro del Interior,Ángel Acebes Paniagua,Hombre
+Septima,3/03/2003,Ministro de Fomento,Francisco Álvarez-Cascos Fernández,Hombre
+Septima,3/03/2003,"Ministra de Educación, Cultura y Deporte",Pilar del Castillo Vera,Mujer
+Septima,3/03/2003,Ministro de Trabajo y Asuntos Sociales,Eduardo Zaplana Hernández-Soro,Hombre
+Septima,3/03/2003,"Ministro de Agricultura, Pesca y Alimentación",Miguel Arias Cañete,Hombre
+Septima,3/03/2003,Ministro de Administraciones Públicas,Javier Arenas Bocanegra,Hombre
+Septima,3/03/2003,Ministra de Sanidad y Consumo,Ana María Pastor Julián,Mujer
+Septima,3/03/2003,Ministra de Medio Ambiente,María Elvira Rodríguez Herrer,Mujer
+Septima,3/03/2003,Ministro de Ciencia y Tecnología,Josep Piqué i Camps,Hombre
+Septima,4/09/2003,Presidente del Gobierno,José María Aznar López,Hombre
+Septima,4/09/2003,Vicepresidente primero y ministro de Economía,Rodrigo de Rato y Figaredo,Hombre
+Septima,4/09/2003,Vicepresidente segundo y ministro de la Presidencia,Javier Arenas Bocanegra,Hombre
+Septima,4/09/2003,Ministra de Asuntos Exteriores,Ana Palacio Vallelersundi,Mujer
+Septima,4/09/2003,Ministro de Justicia,José María Michavila Núñez,Hombre
+Septima,4/09/2003,Ministro de Defensa,Federico Trillo-Figueroa y Martínez-Conde,Hombre
+Septima,4/09/2003,Ministro de Hacienda,Cristóbal Montoro Romero,Hombre
+Septima,4/09/2003,Ministro del Interior,Ángel Acebes Paniagua,Hombre
+Septima,4/09/2003,Ministro de Fomento,Francisco Álvarez-Cascos Fernández,Hombre
+Septima,4/09/2003,"Ministra de Educación, Cultura y Deporte",Pilar del Castillo Vera,Mujer
+Septima,4/09/2003,Ministro de Trabajo y Asuntos Sociales / Portavoz del Gobierno,Eduardo Zaplana Hernández-Soro,Hombre
+Septima,4/09/2003,"Ministro de Agricultura, Pesca y Alimentación",Miguel Arias Cañete,Hombre
+Septima,4/09/2003,Ministra de Administraciones Públicas,Julia García-Valdecasas Salgado,Mujer
+Septima,4/09/2003,Ministra de Sanidad y Consumo,Ana María Pastor Julián,Mujer
+Septima,4/09/2003,Ministra de Medio Ambiente,María Elvira Rodríguez Herrer,Mujer
+Septima,4/09/2003,Ministro de Ciencia y Tecnología,Juan Costa Climent,Hombre
+Octava,18/04/2004,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Octava,18/04/2004,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Octava,18/04/2004,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Octava,18/04/2004,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Octava,18/04/2004,Ministro de Justicia,Juan Fernando López Aguilar,Hombre
+Octava,18/04/2004,Ministro de Defensa,José Bono Martínez,Hombre
+Octava,18/04/2004,Ministro del Interior,José Antonio Alonso Suárez,Hombre
+Octava,18/04/2004,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Octava,18/04/2004,Ministra de Educación y Ciencia,María José Sansegundo Gómez de Cadiñanos,Mujer
+Octava,18/04/2004,Ministro de Trabajo y Asuntos Sociales,Jesús Caldera Sánchez-Capitán,Hombre
+Octava,18/04/2004,"Ministro de Industria, Turismo y Comercio",José Montilla Aguilera,Hombre
+Octava,18/04/2004,"Ministra de Agricultura, Pesca y Alimentación",Elena Espinosa Mangana,Mujer
+Octava,18/04/2004,Ministro de Administraciones Públicas,Jordi Sevilla Segura,Hombre
+Octava,18/04/2004,Ministra de Cultura,Carmen Calvo Poyato,Mujer
+Octava,18/04/2004,Ministra de Sanidad y Consumo,Elena Salgado Méndez,Mujer
+Octava,18/04/2004,Ministra de Medio Ambiente,Cristina Narbona Ruiz,Mujer
+Octava,18/04/2004,Ministra de Vivienda,María Antonia Trujillo Rincón,Mujer
+Octava,11/04/2006,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Octava,11/04/2006,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Octava,11/04/2006,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Octava,11/04/2006,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Octava,11/04/2006,Ministro de Justicia,Juan Fernando López Aguilar,Hombre
+Octava,11/04/2006,Ministro de Defensa,José Antonio Alonso Suárez,Hombre
+Octava,11/04/2006,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Octava,11/04/2006,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Octava,11/04/2006,Ministra de Educación y Ciencia,Mercedes Cabrero Calvo-Sotelo,Mujer
+Octava,11/04/2006,Ministro de Trabajo y Asuntos Sociales,Jesús Caldera Sánchez-Capitán,Hombre
+Octava,11/04/2006,"Ministro de Industria, Turismo y Comercio",José Montilla Aguilera,Hombre
+Octava,11/04/2006,"Ministra de Agricultura, Pesca y Alimentación",Elena Espinosa Mangana,Mujer
+Octava,11/04/2006,Ministro de Administraciones Públicas,Jordi Sevilla Segura,Hombre
+Octava,11/04/2006,Ministra de Cultura,Carmen Calvo Poyato,Mujer
+Octava,11/04/2006,Ministra de Sanidad y Consumo,Elena Salgado Méndez,Mujer
+Octava,11/04/2006,Ministra de Medio Ambiente,Cristina Narbona Ruiz,Mujer
+Octava,11/04/2006,Ministra de Vivienda,María Antonia Trujillo Rincón,Mujer
+Octava,8/09/2006,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Octava,8/09/2006,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Octava,8/09/2006,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Octava,8/09/2006,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Octava,8/09/2006,Ministro de Justicia,Juan Fernando López Aguilar,Hombre
+Octava,8/09/2006,Ministro de Defensa,José Antonio Alonso Suárez,Hombre
+Octava,8/09/2006,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Octava,8/09/2006,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Octava,8/09/2006,Ministra de Educación y Ciencia,Mercedes Cabrera Calvo-Sotelo,Mujer
+Octava,8/09/2006,Ministro de Trabajo y Asuntos Sociales,Jesús Caldera Sánchez-Capitán,Hombre
+Octava,8/09/2006,"Ministro de Industria, Turismo y Comercio",Joan Clos i Matheu,Hombre
+Octava,8/09/2006,"Ministra de Agricultura, Pesca y Alimentación",Elena Espinosa Mangana,Mujer
+Octava,8/09/2006,Ministro de Administraciones Públicas,Jordi Sevilla Segura,Hombre
+Octava,8/09/2006,Ministra de Cultura,Carmen Calvo Poyato,Mujer
+Octava,8/09/2006,Ministra de Sanidad y Consumo,Elena Salgado Méndez,Mujer
+Octava,8/09/2006,Ministra de Medio Ambiente,Cristina Narbona Ruiz,Mujer
+Octava,8/09/2006,Ministra de Vivienda,María Antonia Trujillo Rincón,Mujer
+Octava,12/02/2007,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Octava,12/02/2007,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Octava,12/02/2007,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Octava,12/02/2007,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Octava,12/02/2007,Ministro de Justicia,Mariano Fernández Bermejo,Hombre
+Octava,12/02/2007,Ministro de Defensa,José Antonio Alonso Suárez,Hombre
+Octava,12/02/2007,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Octava,12/02/2007,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Octava,12/02/2007,Ministra de Educación y Ciencia,Mercedes Cabrera Calvo-Sotelo,Mujer
+Octava,12/02/2007,Ministro de Trabajo y Asuntos Sociales,Jesús Caldera Sánchez-Capitán,Hombre
+Octava,12/02/2007,"Ministro de Industria, Turismo y Comercio",Joan Clos i Matheu,Hombre
+Octava,12/02/2007,"Ministra de Agricultura, Pesca y Alimentación",Elena Espinosa Mangana,Mujer
+Octava,12/02/2007,Ministro de Administraciones Públicas,Jordi Sevilla Segura,Hombre
+Octava,12/02/2007,Ministra de Cultura,Carmen Calvo Poyato,Mujer
+Octava,12/02/2007,Ministra de Sanidad y Consumo,Elena Salgado Méndez,Mujer
+Octava,12/02/2007,Ministra de Medio Ambiente,Cristina Narbona Ruiz,Mujer
+Octava,12/02/2007,Ministra de Vivienda,María Antonia Trujillo Rincón,Mujer
+Octava,9/07/2007,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Octava,9/07/2007,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Octava,9/07/2007,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Octava,9/07/2007,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Octava,9/07/2007,Ministro de Justicia,Mariano Fernández Bermejo,Hombre
+Octava,9/07/2007,Ministro de Defensa,José Antonio Alonso Suárez,Hombre
+Octava,9/07/2007,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Octava,9/07/2007,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Octava,9/07/2007,Ministra de Educación y Ciencia,Mercedes Cabrera Calvo-Sotelo,Mujer
+Octava,9/07/2007,Ministro de Trabajo y Asuntos Sociales,Jesús Caldera Sánchez-Capitán,Hombre
+Octava,9/07/2007,"Ministro de Industria, Turismo y Comercio",Joan Clos i Matheu,Hombre
+Octava,9/07/2007,"Ministra de Agricultura, Pesca y Alimentación",Elena Espinosa Mangana,Mujer
+Octava,9/07/2007,Ministra de Administraciones Públicas,Elena Salgado Méndez,Mujer
+Octava,9/07/2007,Ministro de Cultura,César Antonio Molina Sánchez,Hombre
+Octava,9/07/2007,Ministro de Sanidad y Consumo,Bernat Soria Escoms,Hombre
+Octava,9/07/2007,Ministra de Medio Ambiente,Cristina Narbona Ruiz,Mujer
+Octava,9/07/2007,Ministra de Vivienda,Carme Chacón Piqueras,Mujer
+Novena,14/04/2008,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Novena,14/04/2008,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Novena,14/04/2008,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Novena,14/04/2008,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Novena,14/04/2008,Ministro de Justicia,Mariano Fernández Bermejo,Hombre
+Novena,14/04/2008,Ministra de Defensa,Carme Chacón Piqueras,Mujer
+Novena,14/04/2008,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Novena,14/04/2008,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Novena,14/04/2008,"Ministra de Educación, Política Social y Deporte",Mercedes Cabrera Calvo-Sotelo,Mujer
+Novena,14/04/2008,Ministro de Trabajo e Inmigración,Celestino Corbacho Chaves,Hombre
+Novena,14/04/2008,"Ministro de Industria, Turismo y Comercio",Miguel Sebastián Gascón,Hombre
+Novena,14/04/2008,Ministra de Medio Ambiente y Medio Rural y Marino,Elena Espinosa Mangana,Mujer
+Novena,14/04/2008,Ministra de Administraciones Públicas,Elena Salgado Méndez,Mujer
+Novena,14/04/2008,Ministro de Cultura,César Antonio Molina Sánchez,Hombre
+Novena,14/04/2008,Ministro de Sanidad y Consumo,Bernat Soria Escoms,Hombre
+Novena,14/04/2008,Ministra de Vivienda,Beatriz Corredor Sierra,Mujer
+Novena,14/04/2008,Ministra de Ciencia e Innovación,Cristina Garmendia Mendizábal,Mujer
+Novena,14/04/2008,Ministra de Igualdad,Bibiana Aído Almagro,Mujer
+Novena,24/02/2009,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Novena,24/02/2009,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Novena,24/02/2009,Vicepresidente segundo y ministro de Economía y Hacienda,Pedro Solbes Mira,Hombre
+Novena,24/02/2009,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Novena,24/02/2009,Ministro de Justicia,Francisco Caamaño Domínguez,Hombre
+Novena,24/02/2009,Ministra de Defensa,Carme Chacón Piqueras,Mujer
+Novena,24/02/2009,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Novena,24/02/2009,Ministra de Fomento,Magdalena Álvarez Arza,Mujer
+Novena,24/02/2009,"Ministra de Educación, Política Social y Deporte",Mercedes Cabrera Calvo-Sotelo,Mujer
+Novena,24/02/2009,Ministro de Trabajo e Inmigración,Celestino Corbacho Chaves,Hombre
+Novena,24/02/2009,"Ministro de Industria, Turismo y Comercio",Miguel Sebastián Gascón,Hombre
+Novena,24/02/2009,Ministra de Medio Ambiente y Medio Rural y Marino,Elena Espinosa Mangana,Mujer
+Novena,24/02/2009,Ministra de Administraciones Públicas,Elena Salgado Méndez,Mujer
+Novena,24/02/2009,Ministro de Cultura,César Antonio Molina Sánchez,Hombre
+Novena,24/02/2009,Ministro de Sanidad y Consumo,Bernat Soria Escoms,Hombre
+Novena,24/02/2009,Ministra de Vivienda,Beatriz Corredor Sierra,Mujer
+Novena,24/02/2009,Ministra de Ciencia e Innovación,Cristina Garmendia Mendizábal,Mujer
+Novena,24/02/2009,Ministra de Igualdad,Bibiana Aído Almagro,Mujer
+Novena,7/04/2009,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Novena,7/04/2009,"Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",María Teresa Fernández de la Vega Sanz,Mujer
+Novena,7/04/2009,Vicepresidenta segunda y ministra de Economía y Hacienda,Elena Salgado Méndez,Mujer
+Novena,7/04/2009,Vicepresidente tercero y ministro de Política Territorial,Manuel Chaves González,Hombre
+Novena,7/04/2009,Ministro de Asuntos Exteriores y de Cooperación,Miguel Ángel Moratinos Cuyaubé,Hombre
+Novena,7/04/2009,Ministro de Justicia,Francisco Caamaño Dominguez,Hombre
+Novena,7/04/2009,Ministra de Defensa,Carme Chacón Piqueras,Mujer
+Novena,7/04/2009,Ministro del Interior,Alfredo Pérez Rubalcaba,Hombre
+Novena,7/04/2009,Ministro de Fomento,José Blanco López,Hombre
+Novena,7/04/2009,Ministerio de Educación,Ángel Gabilondo Pujol,Hombre
+Novena,7/04/2009,Ministro de Trabajo e Inmigración,Celestino Corbacho Chaves,Hombre
+Novena,7/04/2009,"Ministro de Industria, Turismo y Comercio",Miguel Sebastián Gascón,Hombre
+Novena,7/04/2009,"Ministra de Medio Ambiente, y Medio Rural y Marino",Elena Espinosa Mangada,Mujer
+Novena,7/04/2009,Ministra de Cultura,Ángeles González Sinde,Mujer
+Novena,7/04/2009,Ministra de Sanidad y Política Social,Trinidad Jiménez García-Herrera,Mujer
+Novena,7/04/2009,Ministra de Vivienda,Beatriz Corredor Sierra,Mujer
+Novena,7/04/2009,Ministra de Ciencia e Innovación,Cristina Garmendia Mendizábal,Mujer
+Novena,7/04/2009,Ministra de Igualdad,Bibiana Aído Almagro,Mujer
+Novena,21/10/2010,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Novena,21/10/2010,"Vicepresidente primero , ministro del Interior y portavoz del Gobierno",Alfredo Pérez Rubalcaba,Hombre
+Novena,21/10/2010,Vicepresidenta segunda y ministra de Economía y Hacienda,Elena Salgado Méndez,Mujer
+Novena,21/10/2010,Vicepresidente tercero y ministro de Política Territorial y Administración Pública,Manuel Chaves González,Hombre
+Novena,21/10/2010,Ministra de Asuntos Exteriores y de Cooperación,Trinidad Jiménez García- Herrera,Mujer
+Novena,21/10/2010,Ministro de Justicia,Francisco Caamaño Dominguez,Hombre
+Novena,21/10/2010,Ministra de Defensa,Carme Chacón Piqueras,Mujer
+Novena,21/10/2010,Ministro de Fomento,José Blanco López,Hombre
+Novena,21/10/2010,Ministro de Educación,Ángel Gabilondo Pujol,Hombre
+Novena,21/10/2010,Ministro de Trabajo e Inmigración,Valeriano Gómez Sánchez,Hombre
+Novena,21/10/2010,"Ministro de Industria, Turismo y Comercio",Miguel Sebastián Gascón,Hombre
+Novena,21/10/2010,"Ministra de Medio Ambiente, y Medio Rural y Marino",Rosa Aguilar Rivero,Mujer
+Novena,21/10/2010,Ministro de la Presidencia,Ramón Jáuregui Atondo,Hombre
+Novena,21/10/2010,Ministra de Cultura,Ángeles González Sinde,Mujer
+Novena,21/10/2010,"Ministra de Sanidad, Política Social e Igualdad",Leire Pajín Iraola,Mujer
+Novena,21/10/2010,Ministra de Ciencia e Innovación,Cristina Garmendia Mendizábal,Mujer
+Novena,12/07/2011,Presidente del Gobierno,José Luis Rodríguez Zapatero,Hombre
+Novena,12/07/2011,Vicepresidenta del Gobierno de Asuntos Económicos y ministra de Economía y Hacienda,Elena Salgado Méndez,Mujer
+Novena,12/07/2011,Vicepresidente del Gobierno de Política Territorial y ministro de Política Territorial y Administración Pública,Manuel Chaves González,Hombre
+Novena,12/07/2011,Ministra de Asuntos Exteriores y de Cooperación,Trinidad Jiménez García- Herrera,Mujer
+Novena,12/07/2011,Ministro de Justicia,Francisco Caamaño Domínguez,Hombre
+Novena,12/07/2011,Ministra de Defensa,Carme Chacón Piqueras,Mujer
+Novena,12/07/2011,Ministro del Interior,Antonio Camacho Vizcaíno,Hombre
+Novena,12/07/2011,Ministro de Fomento y ministro Portavoz del Gobierno,José Blanco López,Hombre
+Novena,12/07/2011,Ministro de Educación,Ángel Gabilondo Pujol,Hombre
+Novena,12/07/2011,Ministro de Trabajo e Inmigración,Valeriano Gómez Sánchez,Hombre
+Novena,12/07/2011,"Ministro de Industria, Turismo y Comercio",Miguel Sebastián Gascón,Hombre
+Novena,12/07/2011,"Ministra de Medio Ambiente, y Medio Rural y Marino",Rosa Aguilar Rivero,Mujer
+Novena,12/07/2011,Ministro de la Presidencia,Ramón Jáuregui Atondo,Hombre
+Novena,12/07/2011,Ministra de Cultura,Ángeles González Sinde,Mujer
+Novena,12/07/2011,"Ministra de Sanidad, Política Social e Igualdad",Leire Pajín Iraola,Mujer
+Novena,12/07/2011,Ministra de Ciencia e Innovación,Cristina Garmendia Mendizábal,Mujer
+Decima,22/12/2011,Presidente del Gobierno,Mariano Rajoy Brey,Hombre
+Decima,22/12/2011,Vicepresidenta y ministra de la Presidencia,María Soraya Sáenz de Santamaría Antón,Mujer
+Decima,22/12/2011,Ministro de Asuntos Exteriores y de Cooperación,José Manuel García-Margallo y Marfil,Hombre
+Decima,22/12/2011,Ministro de Justicia,Alberto Ruiz-Gallardón Jiménez.,Hombre
+Decima,22/12/2011,Ministro de Defensa,Pedro Morenés Eulate,Hombre
+Decima,22/12/2011,Ministro de Hacienda y Administraciones Públicas,Cristóbal Montoro Romero,Hombre
+Decima,22/12/2011,Ministro del Interior,Jorge Fernández Díaz,Hombre
+Decima,22/12/2011,Ministra de Fomento,Ana María Pastor Julián,Mujer
+Decima,22/12/2011,"Ministro de Educación, Cultura y Deporte",José Ignacio Wert Ortega,Hombre
+Decima,22/12/2011,Ministra de Empleo y Seguridad Social,María Fátima Báñez García,Mujer
+Decima,22/12/2011,"Ministro de Industria, Energía y Turismo",José Manuel Soria López,Hombre
+Decima,22/12/2011,"Ministro de Agricultura, Alimentación y Medio Ambiente",Miguel Arias Cañete,Hombre
+Decima,22/12/2011,Ministro de Economía y Competitividad,Luis de Guindos Jurado,Hombre
+Decima,22/12/2011,"Ministra de Sanidad, Servicios Sociales e Igualdad",Ana Mato Adrover,Mujer
+Decima,28/04/2014,Presidente del Gobierno,Mariano Rajoy Brey,Hombre
+Decima,28/04/2014,Vicepresidenta y ministra de la Presidencia,María Soraya Sáenz de Santamaría Antón,Mujer
+Decima,28/04/2014,Ministro de Asuntos Exteriores y de Cooperación,José Manuel García-Margallo y Marfil,Hombre
+Decima,28/04/2014,Ministro de Justicia,Alberto Ruiz-Gallardón Jiménez,Hombre
+Decima,28/04/2014,Ministro de Defensa,Pedro Morenés Eulate,Hombre
+Decima,28/04/2014,Ministro de Hacienda y Administraciones Públicas,Cristóbal Montoro Romero,Hombre
+Decima,28/04/2014,Ministro del Interior,Jorge Fernández Díaz,Hombre
+Decima,28/04/2014,Ministra de Fomento,Ana María Pastor Julián,Mujer
+Decima,28/04/2014,"Ministro de Educación, Cultura y Deporte",José Ignacio Wert Ortega,Hombre
+Decima,28/04/2014,Ministra de Empleo y Seguridad Social,María Fátima Báñez García,Mujer
+Decima,28/04/2014,"Ministro de Industria, Energía y Turismo",José Manuel Soria López,Hombre
+Decima,28/04/2014,"Ministra de Agricultura, Alimentación y Medio Ambiente",Isabel García Tejerina,Mujer
+Decima,28/04/2014,Ministro de Economía y Competitividad,Luis de Guindos Jurado,Hombre
+Decima,28/04/2014,"Ministra de Sanidad, Servicios Sociales e Igualdad",Ana Mato Adrover,Mujer
+Decima,29/09/2014,Presidente del Gobierno,Mariano Rajoy Brey,Hombre
+Decima,29/09/2014,Vicepresidenta y ministra de la Presidencia,María Soraya Sáenz de Santamaría Antón,Mujer
+Decima,29/09/2014,Ministro de Asuntos Exteriores y de Cooperación,José Manuel García-Margallo y Marfil,Hombre
+Decima,29/09/2014,Ministro de Justicia,Rafael Catalá Polo,Hombre
+Decima,29/09/2014,Ministro de Defensa,Pedro Morenés Eulate,Hombre
+Decima,29/09/2014,Ministro de Hacienda y Administraciones Públicas,Cristóbal Montoro Romero,Hombre
+Decima,29/09/2014,Ministro del Interior,Jorge Fernández Díaz,Hombre
+Decima,29/09/2014,Ministra de Fomento,Ana María Pastor Julián,Mujer
+Decima,29/09/2014,"Ministro de Educación, Cultura y Deporte",José Ignacio Wert Ortega,Hombre
+Decima,29/09/2014,Ministra de Empleo y Seguridad Social,María Fátima Báñez García,Mujer
+Decima,29/09/2014,"Ministro de Industria, Energía y Turismo",José Manuel Soria López,Hombre
+Decima,29/09/2014,"Ministra de Agricultura, Alimentación y Medio Ambiente",Isabel García Tejerina,Mujer
+Decima,29/09/2014,Ministro de Economía y Competitividad,Luis de Guindos Jurado,Hombre
+Decima,29/09/2014,"Ministra de Sanidad, Servicios Sociales e Igualdad",Ana Mato Adrover,Mujer
+Decima,3/12/2014,Presidente del Gobierno,Mariano Rajoy Brey,Hombre
+Decima,3/12/2014,Vicepresidenta y ministra de la Presidencia,María Soraya Sáenz de Santamaría Antón,Mujer
+Decima,3/12/2014,Ministro de Asuntos Exteriores y de Cooperación,José Manuel García-Margallo y Marfil,Hombre
+Decima,3/12/2014,Ministro de Justicia,Rafael Catalá Polo,Hombre
+Decima,3/12/2014,Ministro de Defensa,Pedro Morenés Eulate,Hombre
+Decima,3/12/2014,Ministro de Hacienda y Administraciones Públicas,Cristóbal Montoro Romero,Hombre
+Decima,3/12/2014,Ministro del Interior,Jorge Fernández Díaz,Hombre
+Decima,3/12/2014,Ministra de Fomento,Ana María Pastor Julián,Mujer
+Decima,3/12/2014,"Ministro de Educación, Cultura y Deporte",José Ignacio Wert Ortega,Hombre
+Decima,3/12/2014,Ministra de Empleo y Seguridad Social,María Fátima Báñez García,Mujer
+Decima,3/12/2014,"Ministro de Industria, Energía y Turismo",José Manuel Soria López,Hombre
+Decima,3/12/2014,"Ministra de Agricultura, Alimentación y Medio Ambiente",Isabel García Tejerina,Mujer
+Decima,3/12/2014,Ministro de Economía y Competitividad,Luis de Guindos Jurado,Hombre
+Decima,3/12/2014,"Ministro de Sanidad, Servicios Sociales e Igualdad",Alfonso Alonso Aranegui,Hombre
+Decima,26/06/2015,Presidente del Gobierno,Mariano Rajoy Brey,Hombre
+Decima,26/06/2015,Vicepresidenta y ministra de la Presidencia,María Soraya Sáenz de Santamaría Antón,Mujer
+Decima,26/06/2015,Ministro de Asuntos Exteriores y de Cooperación,José Manuel García-Margallo y Marfil,Hombre
+Decima,26/06/2015,Ministro de Justicia,Rafael Catalá Polo,Hombre
+Decima,26/06/2015,Ministro de Defensa,Pedro Morenés Eulate,Hombre
+Decima,26/06/2015,Ministro de Hacienda y Administraciones Públicas,Cristóbal Montoro Romero,Hombre
+Decima,26/06/2015,Ministro del Interior,Jorge Fernández Díaz,Hombre
+Decima,26/06/2015,Ministra de Fomento,Ana María Pastor Julián,Mujer
+Decima,26/06/2015,"Ministro de Educación, Cultura y Deporte",Íñigo Méndez de Vigo,Hombre
+Decima,26/06/2015,Ministra de Empleo y Seguridad Social,María Fátima Báñez García,Mujer
+Decima,26/06/2015,"Ministro de Industria, Energía y Turismo",José Manuel Soria López,Hombre
+Decima,26/06/2015,"Ministra de Agricultura, Alimentación y Medio Ambiente",Isabel García Tejerina,Mujer
+Decima,26/06/2015,Ministro de Economía y Competitividad,Luis de Guindos Jurado,Hombre
+Decima,26/06/2015,"Ministro de Sanidad, Servicios Sociales e Igualdad",Alfonso Alonso Aranegui,Hombre
