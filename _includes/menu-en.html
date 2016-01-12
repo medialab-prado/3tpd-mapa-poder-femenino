@@ -1,0 +1,42 @@
+<!-- Nav -->
+  <nav id="nav">
+    <ul>
+      <li><a class="icon fa-venus" href="{{ site.baseurl }}/en/index.html"><span>Home</span></a></li>
+      <li {% if page.section =='politica' %} class="selected" {% endif %}><a class="icon fa-cog" href="{{ site.baseurl }}/en/politica/mundo.html">
+        <span>Politics</span></a>
+        <ul>
+          <li><a href="{{ site.baseurl }}/en/politica/partidos.html">Partidos Políticos</a></li>
+          <li><a href="{{ site.baseurl }}/en/politica/gobierno.html">Gobierno</a></li>
+          <li><a href="{{ site.baseurl }}/en/politica/congreso_senado.html">Congreso y Senado</a></li>
+          <li><a href="{{ site.baseurl }}/en/politica/comunidades_autonomas.html">Comunidades Autónomas</a></li>
+          <li><a href="{{ site.baseurl }}/en/politica/europa.html">Europe</a></li>
+          <li><a href="{{ site.baseurl }}/en/politica/mundo.html">World</a></li>
+        </ul>
+      </li>
+      <li {% if page.section =='economia' %} class="selected" {% endif %}><a class="icon fa-money" href="{{ site.baseurl }}/en/economia/espana.html">
+      	<span>Economy</span></a>
+      	<ul>
+      	<li><a href="{{ site.baseurl }}/en/economia/espana.html">Spain</a></li>
+      	<li><a href="{{ site.baseurl }}/en/economia/europa.html">Europe</a></li>
+      	<li><a href="{{ site.baseurl }}/en/economia/sindicatos_y_ceoe.html">Sindicatos y CEOE</a></li>
+      	<li><a href="{{ site.baseurl }}/en/economia/cuotas.html">Cuotas</a></li>
+      	</ul>
+      </li>
+      <li {% if page.section =='academia' %} class="selected" {% endif %}><a class="icon fa-book" href="{{ site.baseurl }}/en/academia/universidades.html">
+      <span>Academy</span> </a>
+      <ul>
+      	<li><a href="{{ site.baseurl }}/en/academia/reales_academias.html">Reales Academias</a></li>
+      	<li><a href="{{ site.baseurl }}/en/academia/universidades.html">Universidades</a></li>
+      	<li><a href="{{ site.baseurl }}/en/academia/testimonio.html">Un baño de realidad</a></li>
+      </ul>
+      </li>
+      <li {% if page.section =='justicia' %} class="selected" {% endif %}><a class="icon fa-balance-scale" href="{{ site.baseurl}}/en/justicia/carrera_judicial.html">
+      	<span>Justice</span></a>
+      	<ul>
+      		<li><a href="{{ site.baseurl}}/en/justicia/carrera_judicial.html">Carrera Judicial</a></li>
+      		<li><a href="{{ site.baseurl}}/en/justicia/tribunal_constitucional.html">Tribunal Constitucional</a></li>
+      	</ul>
+      </li>
+      <li {% if page.section =='medios' %} class="selected" {% endif %}><a class="icon fa-video-camera" href="{{ site.baseurl }}/en/medios/"><span>Media</span></a></li>
+    </ul>
+  </nav>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head-en.html %}
+
+  <body class="no-sidebar">
+
+    {% include header-en.html %}
+    <div class="page-wrapper">
+      <!-- Main -->
+				<div id="main-wrapper" class="{{ page.section}}">
+					<div id="main" class="container">
+						<div id="content">
+                {{ content }}
+						</div>
+					</div>
+				</div>
+		<div class="back">
+			<a href="#"><i class="fa fa-2x fa-arrow-circle-up"></i></a>
+		</div>
+		<!--
+        {% include footer.html %}
+        -->
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
